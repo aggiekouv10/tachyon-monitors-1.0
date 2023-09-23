@@ -1,0 +1,147 @@
+[
+    {
+        "name": "AIOUNFILTERED",
+        "webhook": "https://discord.com/api/webhooks/914670016312541224/k1DN35dPYVNbGJBXkIBWOKsvL7L0wdgm2G8-zOFyCx0B6OxjIPw-RbdlsPk09dYrmxBb"
+    },
+    {
+        "name": "AIOFILTEREDUS",
+        "webhook": "https://discord.com/api/webhooks/914670051053932624/RXCb2Ncer-dLLN1lCFOzD9LoDxXgYF6xSOVYcZUZS5gtsucaLencSSb1fYCBhE20ZtJK"
+    },
+    {
+        "name": "AIOFILTEREDEU",
+        "webhook": "https://discord.com/api/webhooks/914670089209540680/IVbjufsjPt8_nIs_1XHgdVDpVogx75E4FCosGYrEiFtoAnkDABl-F8Wb54pubE5r91kp"
+    },
+    {
+        "name": "SLAMJAM",
+        "webhook": "https://discord.com/api/webhooks/811112852000735254/i8EtOtVxidjGkq-RUnzEOGsp765p1KUgT1aP9ZexCAjbLoXwHq-PUEIXm0JBUg0rapNI"
+    },
+    {
+        "name": "SOLEBOX",
+        "webhook": "https://discord.com/api/webhooks/811107530180526100/5eUXKvh-2ilOa7mqWe_oBZzax3M9V1xXNP_zhUxMWQyhOgqaxFO60tv9E35Ywm7qwb0f"
+    },
+    {
+        "name": "REVOLVE",
+        "webhook": "https://discord.com/api/webhooks/892427510917259264/C1YHMCIl9D9Vr0VvjtpPFEy2iAYN8WAK7BzqeTRV43Syx47YHKaWp7bV4xAYf-ADY2Vp"
+    },
+    {
+        "name": "SNIPESEU",
+        "webhook": "https://discord.com/api/webhooks/850687456487538718/c_0X5wnAEE9CJW3tiuFso7hAauaH7GQ80dcrfyHq-SmPExSduRdqM44vsM05i2Ao6PlD"
+    },
+    {
+        "name": "SNIPESUSA",
+        "webhook": "https://discord.com/api/webhooks/811119886071889973/6ROq84M2vIVfiyBfE1h0iHQDzqBpRobXOKeOf9DK_MFL4N6-pHUuxy3xqkPIpLzD-MCB"
+    },
+    {
+        "name": "DSG",
+        "webhook": "https://discord.com/api/webhooks/861447876310859826/WInhLiMWoHp8N4220hNIuWW7AIJSZSc4CXiOxik1kujl1ddZFvrRQFSDNXKzZIjc2E0Y"
+    },
+    {
+        "name": "ONYGO",
+        "webhook": "https://discord.com/api/webhooks/865954179502440468/H5QCSuDEW8UqiMuwyj0c8ATw_k9yWkLQcpJwe6BbZVTuvwiq0fIKMfrBRAVAArfD-vCk"
+    },
+    {
+        "name": "ASOS",
+        "webhook": "https://discord.com/api/webhooks/861772562082299906/5FQZam_xUNYQXSpRstkRrvH6ps-dsW5pfvqGE_DXUnoewGh-acOE1Rt9JzXovXJOBGMd"
+    },
+    {
+        "name": "LACOSTE",
+        "webhook": "https://discord.com/api/webhooks/849120877509476383/suK6oiXYR0hoV-U39RVzEvGsq8QQHFWRm9fRhFJrNV2q3icLy9FftSBVbOfUfkkzUSK6"
+    },
+    {
+        "name": "OFFSPRING",
+        "webhook": "https://discord.com/api/webhooks/810722379230871552/eWNoBGAx6KZJgL9SqKXbSwLmroOgQSQyjY_Qb6JL8aJ8-gQ2_jnM1E0OAZW2HEpm0bdA"
+    },
+    {
+        "name": "OFFICE",
+        "webhook": "https://discord.com/api/webhooks/914670705612816454/lmu6a-8fFasUPhzXzI6DvyaLAYszDbYXaaeu6uYcMTAhrHaIi80b1jnDW2cqIfIRtj-r"
+    },
+    {
+        "name": "BOXLUNCH",
+        "webhook": "https://discord.com/api/webhooks/845379484052226068/ISbmhgCDJ01wJM1cSDv87ah9uGWaCrYxEm1B1vZlIekUS7MC-G519jvpON7ugi2lvGR5"
+    },
+    {
+        "name": "HOTTOPIC",
+        "webhook": "https://discord.com/api/webhooks/845369447374913558/-cNyqbogtMgXMbmHnNe2ii8XIixJ1ehW38TSgmSqhuOI_oAQSDm27l_i-ArKapPleJy7"
+    },
+    {
+        "name": "FINISHLINE",
+        "webhook": "https://discord.com/api/webhooks/814076886413737984/rBeykPOVp35RO865TZO3QjkoRuqz8QMrugZ6Dm6ATF0r70lL_Al6n7-NVuOZETaHQPLr"
+    },
+    {
+        "name": "JDSPORTS",
+        "webhook": "https://discord.com/api/webhooks/899898255213744148/aELGdfXgAd1k6qGV5QyCyKSuGyLCauP5BHPpMyXGceMpB8QwP-i0oDAwgyfuuYsbQT9M"
+    },
+    {
+        "name": "LVR",
+        "webhook": "https://discord.com/api/webhooks/900166863487631401/_MGJpbaQRs2zWHbpV_9wwvPpX9HDKYAPsBa3GodW0Ropy8i3nMdlHmHlyCrWxUDvISzr"
+    },
+    {
+        "name": "NORDSTROM",
+        "webhook": "https://discord.com/api/webhooks/810745684118208513/Wu9WL5kshg-hkoIxbDW0hyTS32oH_3w-Bass5X-4zOLKH0036l-xH-UOdLTTsq2t1L32"
+    },
+    {
+        "name": "NORDSTROMCA",
+        "webhook": "https://discord.com/api/webhooks/857085090672148520/6EPIk5eQUgGh7mFSHvE2cxPCSjbbYdisg0EnBw-S3ecagxQQUTY4KBNGxYVDY7vSreEK"
+    },
+    {
+        "name": "HIBBETT",
+        "webhook": "https://discord.com/api/webhooks/831551438135623720/SoW_Cz5Lau3uyDtxzANoYZCv0p-h8iS2Z2SIOROD08NLp-j7n8GlDync3atuxo-SMg_-"
+    },
+    {
+        "name": "MRPORTER",
+        "webhook": "https://discord.com/api/webhooks/861697997821706242/I-5GVYDhJjIoN7t01G4nXJgPST1VoKJI771hTXtF-OnaBEUMrj1tfBHD6n62U0k9wyMG"
+    },
+    {
+        "name": "NETAPORTER",
+        "webhook": "https://discord.com/api/webhooks/861700219686354975/JdvJgKNNHfdAc7n7vX7hLg2Vg5eU0vwU1C1J22bTqho4A33aVsWSIlHJEuvQxyOWHZ-Y"
+    },
+    {
+        "name": "SSENSE",
+        "webhook": "https://discord.com/api/webhooks/914671615936196618/jX6jD1P6pEVO80s4PfC6CLz3Vr6Tfxs290zEbqeyWEMCZr4-9jTv4ex74xuDejK1y0dj"
+    },
+    {
+        "name": "SHOPWSS",
+        "webhook": "https://discord.com/api/webhooks/861777230161641494/S3QHty4VZfxLc7aOdQLBfDpujW25yP346O2JL-zXZcdkjzl1hSB0pTShiUJNe4FVEAJn"
+    },
+    {
+        "name": "FOOTSHOP",
+        "webhook": "https://discord.com/api/webhooks/861821947474083860/NaBLkQuRIcY7qZRzKv8qwl3JlxIHUpROx8G5LC_FykaVsDLgaKZly5ZGlOTwIwoKJM6m"
+    },
+    {
+        "name": "END",
+        "webhook": "https://discord.com/api/webhooks/858533199219130368/fCDemY_bococKXlXixgtssCLM2nZuQLbFMsdzWLEi-PZvJbcl4ed9VDRVPW_Unz-YcCb"
+    },
+    {
+        "name": "TITOLO",
+        "webhook": "https://discord.com/api/webhooks/861838836804091915/lsOqeyQqCaNTjVMSA3eYGiwvwvDwdl_pfUBo1IeyxTO8uG5-AOiZEa-sxRWWp01xyqFQ"
+    },
+    {
+        "name": "SVD",
+        "webhook": "https://discord.com/api/webhooks/861841124217716756/kD5h-i8E3JYhW8TV-xB_hE9YOuAwqyUwyzL7HbIr1ooDCn6Tuww9dnqgDe2Um5k7Jc2i"
+    },
+    {
+        "name": "CROCS",
+        "webhook": "https://discord.com/api/webhooks/914671870471708703/I1ZyXLl64VNSIDGbTOKYIKFEaZWk93rFC302ELM0r5e1Da4cUKc6ZSqEiiRF9Olo_TNt"
+    },
+    {
+        "name": "NEWBALANCE",
+        "webhook": "https://discord.com/api/webhooks/914671910405677126/NrIK5yLzHQQ7DMc6TNPdx_zkhBedepoYNI0Bn86el8tciZoDG7o5pifTmO2acZ1igdCG"
+    },
+    {
+        "name": "SNS",
+        "webhook": "https://discord.com/api/webhooks/858520463231287296/y-7h0lPYCElzjZ16Hy4YaKC0HW7uYiYLygZn6HlCY2rNJkeDuP6QPXOorX9OfyEJGYbY"
+    },
+    {
+        "name": "SPORTSCHECK",
+        "webhook": "https://discord.com/api/webhooks/850921924037181460/E1fwTKiFI72eR2mhbzkgLOkVw1S9thZSIamDC3OyxPUUcWhuNQszt5y0BFs6NO04jJ-V"
+    },
+    {
+        "name": "GOLFTOWN",
+        "webhook": "https://discord.com/api/webhooks/863057951656378389/qnle0IjOzr6aBaJ91-Wmhe9j7equfLUeQVd4Sam-_4jenU4i2eG7QrS83TA9F88XNZQg"
+    },
+    {
+        "name": "AWLAB",
+        "webhook": "https://discord.com/api/webhooks/914672081533304893/xtu7gI2AuuvbadEBjPgMuGbYhneOyJqAkO30GFIV_13xet4u7TGIlYtj2hNCxgJ1OWAg"
+    }
+
+]

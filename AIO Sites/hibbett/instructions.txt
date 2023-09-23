@@ -1,0 +1,6 @@
+1. Change seed string of decodePXString() with the files string
+1.5. Change function name of base64 decoder (search ==")
+2. Run deob on original.js
+3. on deobbed.js search "= atob(" and replace all functions which use that kind of obfuscation, changing their names to "deob("
+4. Run deob2 on original.js
+5. Enjoy!

@@ -1,0 +1,28 @@
+{
+  "name": "twitter-monitor",
+  "version": "1.0.0",
+  "description": "Monitor Twitter Accounts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com"
+  },
+  "keywords": [],
+  "author": "Aggie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com"
+  },
+  "homepage": "https://github.com",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "discord.js": "^11.4.2",
+    "moment": "^2.24.0",
+    "request-promise": "^4.2.4",
+    "tesseract.js": "^1.0.14",
+    "twit": "^2.2.11"
+  }
+}

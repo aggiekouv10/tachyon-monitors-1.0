@@ -1,0 +1,25 @@
+{
+  "Discord": {
+    "webhook": "https://discord.com/api/webhooks/857858020184031272/mEJYZPqhFS-ICgB5XxqtR3QYlrscxQ5feAigJ4oPMDOpFdjQOtMb6cyoWoYAkYVDR0rf"
+  },
+  "Twitter": {
+    "Keys": {
+      "consumer_key": "TH0Pk5odxmL4I8wFfZIhibXuV",
+      "consumer_secret": "BDUe6FtIul2MbKttkIwziyoFlrLKqmQcRuh5QBJuknKSyBy6kh",
+      "access_token": "1312046084890402817-KSz1MaDSjIk1UQWPxtULCfRkHFrMpw",
+      "access_token_secret": "rPpNM5tSf4N1bQu1JxuLqM2OOG2WBv2WM9PXqxVETYaOk"
+    },
+    "Accounts": [
+      "@Cybersole",
+      "@destroyerbots",
+      "@EveAIO",
+      "@theKickStation",
+      "@soleaio",
+      "@GhostAIO",
+      "@AdeptBots",
+      "@AdeptAIO",
+      "@balkobot",
+      "@aggiekouv"
+    ]
+  }
+}

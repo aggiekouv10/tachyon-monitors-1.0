@@ -1,0 +1,1938 @@
+{
+    "id": 5033343,
+    "ageGroups": [
+        "Youth"
+    ],
+    "reviewAverageRating": 0,
+    "enticements": [],
+    "enticementPlacements": [
+        {
+            "name": "product-page-2",
+            "enticements": [
+                {
+                    "type": "TDBankBopusPromo",
+                    "title": "\u003cp\u003eGet a $40 Bonus Note when you use a new Nordstrom credit card. \u003ca title=\"\" href=\"https://www.nordstrom.com/creditcard/entry?cc=AA1002\"\u003eApply now\u003c/a\u003e\u003c/p\u003e"
+                }
+            ]
+        }
+    ],
+    "brand": {
+        "brandName": "JORDAN",
+        "brandUrl": "/brands/jordan--17614?origin=productBrandLink",
+        "imsBrandId": 27894321
+    },
+    "buyAndSave": "",
+    "buyAndSaveOffer": null,
+    "categoryId": "/siteentryviaproductpage/",
+    "consumers": [
+        "product-page"
+    ],
+    "customizationCode": "",
+    "description": "\u003cp\u003eA kid-size version of an iconic kick, this reissued basketball shoe sports generous padding in the collar and lightweight Air-Sole cushioning underfoot.\u003c/p\u003e",
+    "defaultGalleryMedia": {
+        "styleMediaId": 5034343,
+        "colorId": 0,
+        "isTrimmed": true,
+        "styleMediaIds": [
+            5034343,
+            5034353,
+            5034363,
+            5034373,
+            5034383,
+            5034393,
+            5035343,
+            5035353,
+            5035363,
+            5035373,
+            5035383,
+            5035393,
+            5036343,
+            5036353,
+            5036363,
+            5036373,
+            5036383,
+            5036393,
+            5037343,
+            5037353,
+            5037363,
+            5037373,
+            5037383,
+            5037393,
+            5038343,
+            5038353,
+            5038363,
+            5038373,
+            5038383,
+            5038393,
+            5039343,
+            5039353,
+            5039363,
+            5039373,
+            5039383,
+            5039393,
+            5040343,
+            5040353,
+            5040363,
+            5040373,
+            5040383,
+            5040393,
+            5041343,
+            5041353,
+            5041363,
+            5041373,
+            5041383,
+            5041393,
+            5042343,
+            5042353,
+            5042363,
+            5042373,
+            5042383,
+            5042393
+        ]
+    },
+    "eGiftToken": null,
+    "eGiftUrl": null,
+    "eventFlags": {
+        "isVipPreOrderProduct": false,
+        "isAnniversaryProduct": false
+    },
+    "features": [
+        "Lace-up style",
+        "Air-Sole cushioning provides lightweight, responsive comfort",
+        "Removable insole",
+        "Leather, synthetic or textile upper/synthetic lining/rubber sole",
+        "Imported",
+        "Kids' Shoes"
+    ],
+    "filters": {
+        "color": {
+            "byId": {},
+            "allIds": []
+        },
+        "size": {
+            "byId": {},
+            "allIds": []
+        },
+        "width": {
+            "byId": {},
+            "allIds": []
+        },
+        "group": {
+            "byId": {},
+            "allIds": []
+        }
+    },
+    "filterOptions": [],
+    "fitAndSize": {
+        "contextualSizeDetail": "Big Kid: 8-12 yrs.",
+        "fitDetail": "\u003ca href=\"https://n.nordstrommedia.com/id/a461c18b-8b14-4eab-9d2d-8aca759715d2.pdf\" target=\"_blank\"\u003e\u003cu\u003eMeasure Your Child’s Feet\u003c/u\u003e\u003c/a\u003e",
+        "fitGuideTitle": "",
+        "fitGuideUrl": "",
+        "fitVideoTitle": "",
+        "fitVideoUrl": "",
+        "hasSizeChart": true,
+        "sizeChartTitle": null,
+        "sizeChartUrl": "/sizeguides/3338_sizeguide.pdf",
+        "sizeDetail": [
+            "Big Kid: 8-12 yrs."
+        ]
+    },
+    "imtFitAndSize": {},
+    "fitCategory": "",
+    "gender": "Male",
+    "giftWithPurchase": "",
+    "healthHazardCategory": "",
+    "holidayDeliveryCopy": {},
+    "imsProductTypeId": 353,
+    "imsProductTypeParentId": 4,
+    "ingredients": "",
+    "isAnniversaryStyle": false,
+    "isAvailable": false,
+    "isBackOrdered": false,
+    "isBeauty": false,
+    "isCallCenterActive": false,
+    "isChanel": false,
+    "isCustomerFirstAccessEligible": false,
+    "isEGifting": false,
+    "isEligibleForHolidayMessaging": false,
+    "isPickUpStoreEligible": false,
+    "isHazmat": false,
+    "isInStoreOnlyBridal": false,
+    "isInternational": false,
+    "isLoadedFromServer": true,
+    "isMwpV6": true,
+    "isDynamicRenderOn": true,
+    "isPreOrder": false,
+    "isProductBuyNowEligible": false,
+    "isProductNordyClubExclusive": false,
+    "isPythonItem": false,
+    "isStoreAvailable": true,
+    "isStyleRestrictedFromIntlShipping": false,
+    "isUmap": false,
+    "keywords": {
+        "heelHeight": null,
+        "heelStyle": null,
+        "toeStyle": null
+    },
+    "maxOrderQuantity": 99,
+    "number": "5675701",
+    "numberOfReviews": 0,
+    "pathAlias": "nike-jordan-air-jordan-1-mid-se-basketball-shoe-big-kid",
+    "price": null,
+    "productEngagement": {
+        "pageViews": {
+            "count": "3",
+            "copy": ""
+        }
+    },
+    "promotion": {
+        "promoType": "",
+        "startDateTime": "",
+        "endDateTime": "",
+        "maximumPromotionalPrice": 0,
+        "minimumPromotionalPrice": 0,
+        "maximumPercentOff": 0,
+        "minimumPercentOff": 0
+    },
+    "primaryCategoryPathString": "",
+    "productName": "Nike Jordan Air Jordan 1 Mid SE Basketball Shoe",
+    "productTitle": "Nike Jordan Air Jordan 1 Mid SE Basketball Shoe (Big Kid)",
+    "productTypeName": "Sneaker",
+    "productTypeParentName": "Shoes",
+    "saleType": "Regular",
+    "salesVideoShot": null,
+    "sellingStatement": "",
+    "shopperSizePreferences": [],
+    "skus": {
+        "byId": {},
+        "allIds": []
+    },
+    "styleMedia": {
+        "byId": {
+            "5034343": {
+                "id": 5034343,
+                "colorName": "007",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/755af6b2-2c55-4d3b-975f-6b79744efbea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/755af6b2-2c55-4d3b-975f-6b79744efbea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/755af6b2-2c55-4d3b-975f-6b79744efbea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/755af6b2-2c55-4d3b-975f-6b79744efbea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/755af6b2-2c55-4d3b-975f-6b79744efbea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/755af6b2-2c55-4d3b-975f-6b79744efbea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/755af6b2-2c55-4d3b-975f-6b79744efbea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/755af6b2-2c55-4d3b-975f-6b79744efbea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/755af6b2-2c55-4d3b-975f-6b79744efbea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/755af6b2-2c55-4d3b-975f-6b79744efbea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/755af6b2-2c55-4d3b-975f-6b79744efbea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/755af6b2-2c55-4d3b-975f-6b79744efbea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": true,
+                "isTrimmed": true,
+                "mediaGroupType": "Main",
+                "mediaType": "Image",
+                "sortId": 1
+            },
+            "5034353": {
+                "id": 5034353,
+                "colorName": "007",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/49cb538d-39e5-4a2f-868d-7960cbb41836.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/49cb538d-39e5-4a2f-868d-7960cbb41836.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/49cb538d-39e5-4a2f-868d-7960cbb41836.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/49cb538d-39e5-4a2f-868d-7960cbb41836.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/49cb538d-39e5-4a2f-868d-7960cbb41836.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/49cb538d-39e5-4a2f-868d-7960cbb41836.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/49cb538d-39e5-4a2f-868d-7960cbb41836.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/49cb538d-39e5-4a2f-868d-7960cbb41836.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/49cb538d-39e5-4a2f-868d-7960cbb41836.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/49cb538d-39e5-4a2f-868d-7960cbb41836.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/49cb538d-39e5-4a2f-868d-7960cbb41836.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/49cb538d-39e5-4a2f-868d-7960cbb41836.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 2
+            },
+            "5034363": {
+                "id": 5034363,
+                "colorName": "007",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/eb8104a5-f101-4dd6-93d4-34b0dbd6f3f1.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/eb8104a5-f101-4dd6-93d4-34b0dbd6f3f1.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/eb8104a5-f101-4dd6-93d4-34b0dbd6f3f1.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/eb8104a5-f101-4dd6-93d4-34b0dbd6f3f1.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/eb8104a5-f101-4dd6-93d4-34b0dbd6f3f1.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/eb8104a5-f101-4dd6-93d4-34b0dbd6f3f1.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/eb8104a5-f101-4dd6-93d4-34b0dbd6f3f1.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/eb8104a5-f101-4dd6-93d4-34b0dbd6f3f1.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/eb8104a5-f101-4dd6-93d4-34b0dbd6f3f1.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/eb8104a5-f101-4dd6-93d4-34b0dbd6f3f1.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/eb8104a5-f101-4dd6-93d4-34b0dbd6f3f1.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/eb8104a5-f101-4dd6-93d4-34b0dbd6f3f1.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 3
+            },
+            "5034373": {
+                "id": 5034373,
+                "colorName": "007",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/5ebf74ce-6a7a-4e11-a309-eedc086cddff.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/5ebf74ce-6a7a-4e11-a309-eedc086cddff.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/5ebf74ce-6a7a-4e11-a309-eedc086cddff.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/5ebf74ce-6a7a-4e11-a309-eedc086cddff.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/5ebf74ce-6a7a-4e11-a309-eedc086cddff.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/5ebf74ce-6a7a-4e11-a309-eedc086cddff.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/5ebf74ce-6a7a-4e11-a309-eedc086cddff.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/5ebf74ce-6a7a-4e11-a309-eedc086cddff.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/5ebf74ce-6a7a-4e11-a309-eedc086cddff.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/5ebf74ce-6a7a-4e11-a309-eedc086cddff.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/5ebf74ce-6a7a-4e11-a309-eedc086cddff.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/5ebf74ce-6a7a-4e11-a309-eedc086cddff.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 4
+            },
+            "5034383": {
+                "id": 5034383,
+                "colorName": "007",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/c8db0102-4efa-4caf-b76f-913537d85cf0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/c8db0102-4efa-4caf-b76f-913537d85cf0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/c8db0102-4efa-4caf-b76f-913537d85cf0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/c8db0102-4efa-4caf-b76f-913537d85cf0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/c8db0102-4efa-4caf-b76f-913537d85cf0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/c8db0102-4efa-4caf-b76f-913537d85cf0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/c8db0102-4efa-4caf-b76f-913537d85cf0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/c8db0102-4efa-4caf-b76f-913537d85cf0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/c8db0102-4efa-4caf-b76f-913537d85cf0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/c8db0102-4efa-4caf-b76f-913537d85cf0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/c8db0102-4efa-4caf-b76f-913537d85cf0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/c8db0102-4efa-4caf-b76f-913537d85cf0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 5
+            },
+            "5034393": {
+                "id": 5034393,
+                "colorName": "007",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/3c6e4718-7ddf-4b88-9bd3-c05f0e331b63.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/3c6e4718-7ddf-4b88-9bd3-c05f0e331b63.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/3c6e4718-7ddf-4b88-9bd3-c05f0e331b63.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/3c6e4718-7ddf-4b88-9bd3-c05f0e331b63.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/3c6e4718-7ddf-4b88-9bd3-c05f0e331b63.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/3c6e4718-7ddf-4b88-9bd3-c05f0e331b63.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/3c6e4718-7ddf-4b88-9bd3-c05f0e331b63.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/3c6e4718-7ddf-4b88-9bd3-c05f0e331b63.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/3c6e4718-7ddf-4b88-9bd3-c05f0e331b63.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/3c6e4718-7ddf-4b88-9bd3-c05f0e331b63.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/3c6e4718-7ddf-4b88-9bd3-c05f0e331b63.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/3c6e4718-7ddf-4b88-9bd3-c05f0e331b63.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 6
+            },
+            "5035343": {
+                "id": 5035343,
+                "colorId": 1,
+                "colorName": "105",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/4457f525-11a5-47bd-b3d6-869eb0786b69.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/4457f525-11a5-47bd-b3d6-869eb0786b69.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/4457f525-11a5-47bd-b3d6-869eb0786b69.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/4457f525-11a5-47bd-b3d6-869eb0786b69.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/4457f525-11a5-47bd-b3d6-869eb0786b69.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/4457f525-11a5-47bd-b3d6-869eb0786b69.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/4457f525-11a5-47bd-b3d6-869eb0786b69.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/4457f525-11a5-47bd-b3d6-869eb0786b69.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/4457f525-11a5-47bd-b3d6-869eb0786b69.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/4457f525-11a5-47bd-b3d6-869eb0786b69.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/4457f525-11a5-47bd-b3d6-869eb0786b69.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/4457f525-11a5-47bd-b3d6-869eb0786b69.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Main",
+                "mediaType": "Image",
+                "sortId": 1
+            },
+            "5035353": {
+                "id": 5035353,
+                "colorId": 1,
+                "colorName": "105",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/1a14f23b-5f1c-4605-879c-912ad1682661.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/1a14f23b-5f1c-4605-879c-912ad1682661.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/1a14f23b-5f1c-4605-879c-912ad1682661.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/1a14f23b-5f1c-4605-879c-912ad1682661.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/1a14f23b-5f1c-4605-879c-912ad1682661.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/1a14f23b-5f1c-4605-879c-912ad1682661.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/1a14f23b-5f1c-4605-879c-912ad1682661.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/1a14f23b-5f1c-4605-879c-912ad1682661.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/1a14f23b-5f1c-4605-879c-912ad1682661.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/1a14f23b-5f1c-4605-879c-912ad1682661.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/1a14f23b-5f1c-4605-879c-912ad1682661.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/1a14f23b-5f1c-4605-879c-912ad1682661.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 2
+            },
+            "5035363": {
+                "id": 5035363,
+                "colorId": 1,
+                "colorName": "105",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/591b87a7-996f-4856-b7a1-6a747263a724.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/591b87a7-996f-4856-b7a1-6a747263a724.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/591b87a7-996f-4856-b7a1-6a747263a724.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/591b87a7-996f-4856-b7a1-6a747263a724.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/591b87a7-996f-4856-b7a1-6a747263a724.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/591b87a7-996f-4856-b7a1-6a747263a724.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/591b87a7-996f-4856-b7a1-6a747263a724.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/591b87a7-996f-4856-b7a1-6a747263a724.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/591b87a7-996f-4856-b7a1-6a747263a724.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/591b87a7-996f-4856-b7a1-6a747263a724.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/591b87a7-996f-4856-b7a1-6a747263a724.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/591b87a7-996f-4856-b7a1-6a747263a724.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 3
+            },
+            "5035373": {
+                "id": 5035373,
+                "colorId": 1,
+                "colorName": "105",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/66529e5c-53a9-4d7b-8d79-8a6e13edee60.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/66529e5c-53a9-4d7b-8d79-8a6e13edee60.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/66529e5c-53a9-4d7b-8d79-8a6e13edee60.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/66529e5c-53a9-4d7b-8d79-8a6e13edee60.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/66529e5c-53a9-4d7b-8d79-8a6e13edee60.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/66529e5c-53a9-4d7b-8d79-8a6e13edee60.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/66529e5c-53a9-4d7b-8d79-8a6e13edee60.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/66529e5c-53a9-4d7b-8d79-8a6e13edee60.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/66529e5c-53a9-4d7b-8d79-8a6e13edee60.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/66529e5c-53a9-4d7b-8d79-8a6e13edee60.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/66529e5c-53a9-4d7b-8d79-8a6e13edee60.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/66529e5c-53a9-4d7b-8d79-8a6e13edee60.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 4
+            },
+            "5035383": {
+                "id": 5035383,
+                "colorId": 1,
+                "colorName": "105",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/e341d745-f666-417a-9883-c9c2e999d213.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/e341d745-f666-417a-9883-c9c2e999d213.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/e341d745-f666-417a-9883-c9c2e999d213.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/e341d745-f666-417a-9883-c9c2e999d213.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/e341d745-f666-417a-9883-c9c2e999d213.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/e341d745-f666-417a-9883-c9c2e999d213.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/e341d745-f666-417a-9883-c9c2e999d213.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/e341d745-f666-417a-9883-c9c2e999d213.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/e341d745-f666-417a-9883-c9c2e999d213.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/e341d745-f666-417a-9883-c9c2e999d213.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/e341d745-f666-417a-9883-c9c2e999d213.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/e341d745-f666-417a-9883-c9c2e999d213.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 5
+            },
+            "5035393": {
+                "id": 5035393,
+                "colorId": 1,
+                "colorName": "105",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/20cc8517-4de5-4816-a8b8-35e2e5969f46.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/20cc8517-4de5-4816-a8b8-35e2e5969f46.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/20cc8517-4de5-4816-a8b8-35e2e5969f46.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/20cc8517-4de5-4816-a8b8-35e2e5969f46.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/20cc8517-4de5-4816-a8b8-35e2e5969f46.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/20cc8517-4de5-4816-a8b8-35e2e5969f46.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/20cc8517-4de5-4816-a8b8-35e2e5969f46.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/20cc8517-4de5-4816-a8b8-35e2e5969f46.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/20cc8517-4de5-4816-a8b8-35e2e5969f46.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/20cc8517-4de5-4816-a8b8-35e2e5969f46.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/20cc8517-4de5-4816-a8b8-35e2e5969f46.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/20cc8517-4de5-4816-a8b8-35e2e5969f46.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 6
+            },
+            "5036343": {
+                "id": 5036343,
+                "colorId": 2,
+                "colorName": "114",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/c493d7eb-0ec3-42d8-b168-d1e7d90ede0b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/c493d7eb-0ec3-42d8-b168-d1e7d90ede0b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/c493d7eb-0ec3-42d8-b168-d1e7d90ede0b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/c493d7eb-0ec3-42d8-b168-d1e7d90ede0b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/c493d7eb-0ec3-42d8-b168-d1e7d90ede0b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/c493d7eb-0ec3-42d8-b168-d1e7d90ede0b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/c493d7eb-0ec3-42d8-b168-d1e7d90ede0b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/c493d7eb-0ec3-42d8-b168-d1e7d90ede0b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/c493d7eb-0ec3-42d8-b168-d1e7d90ede0b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/c493d7eb-0ec3-42d8-b168-d1e7d90ede0b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/c493d7eb-0ec3-42d8-b168-d1e7d90ede0b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/c493d7eb-0ec3-42d8-b168-d1e7d90ede0b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Main",
+                "mediaType": "Image",
+                "sortId": 1
+            },
+            "5036353": {
+                "id": 5036353,
+                "colorId": 2,
+                "colorName": "114",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/843e248e-4d84-400b-97be-01041991b633.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/843e248e-4d84-400b-97be-01041991b633.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/843e248e-4d84-400b-97be-01041991b633.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/843e248e-4d84-400b-97be-01041991b633.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/843e248e-4d84-400b-97be-01041991b633.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/843e248e-4d84-400b-97be-01041991b633.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/843e248e-4d84-400b-97be-01041991b633.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/843e248e-4d84-400b-97be-01041991b633.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/843e248e-4d84-400b-97be-01041991b633.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/843e248e-4d84-400b-97be-01041991b633.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/843e248e-4d84-400b-97be-01041991b633.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/843e248e-4d84-400b-97be-01041991b633.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 2
+            },
+            "5036363": {
+                "id": 5036363,
+                "colorId": 2,
+                "colorName": "114",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/d36f63ca-f8e4-498c-b059-269c3298fc22.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/d36f63ca-f8e4-498c-b059-269c3298fc22.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/d36f63ca-f8e4-498c-b059-269c3298fc22.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/d36f63ca-f8e4-498c-b059-269c3298fc22.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/d36f63ca-f8e4-498c-b059-269c3298fc22.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/d36f63ca-f8e4-498c-b059-269c3298fc22.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/d36f63ca-f8e4-498c-b059-269c3298fc22.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/d36f63ca-f8e4-498c-b059-269c3298fc22.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/d36f63ca-f8e4-498c-b059-269c3298fc22.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/d36f63ca-f8e4-498c-b059-269c3298fc22.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/d36f63ca-f8e4-498c-b059-269c3298fc22.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/d36f63ca-f8e4-498c-b059-269c3298fc22.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 3
+            },
+            "5036373": {
+                "id": 5036373,
+                "colorId": 2,
+                "colorName": "114",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/9e40237c-4046-455d-9383-6f0bab641af7.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/9e40237c-4046-455d-9383-6f0bab641af7.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/9e40237c-4046-455d-9383-6f0bab641af7.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/9e40237c-4046-455d-9383-6f0bab641af7.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/9e40237c-4046-455d-9383-6f0bab641af7.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/9e40237c-4046-455d-9383-6f0bab641af7.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/9e40237c-4046-455d-9383-6f0bab641af7.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/9e40237c-4046-455d-9383-6f0bab641af7.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/9e40237c-4046-455d-9383-6f0bab641af7.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/9e40237c-4046-455d-9383-6f0bab641af7.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/9e40237c-4046-455d-9383-6f0bab641af7.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/9e40237c-4046-455d-9383-6f0bab641af7.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 4
+            },
+            "5036383": {
+                "id": 5036383,
+                "colorId": 2,
+                "colorName": "114",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/91bb77e3-242a-4edc-b12c-5ae2bb67e406.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/91bb77e3-242a-4edc-b12c-5ae2bb67e406.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/91bb77e3-242a-4edc-b12c-5ae2bb67e406.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/91bb77e3-242a-4edc-b12c-5ae2bb67e406.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/91bb77e3-242a-4edc-b12c-5ae2bb67e406.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/91bb77e3-242a-4edc-b12c-5ae2bb67e406.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/91bb77e3-242a-4edc-b12c-5ae2bb67e406.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/91bb77e3-242a-4edc-b12c-5ae2bb67e406.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/91bb77e3-242a-4edc-b12c-5ae2bb67e406.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/91bb77e3-242a-4edc-b12c-5ae2bb67e406.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/91bb77e3-242a-4edc-b12c-5ae2bb67e406.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/91bb77e3-242a-4edc-b12c-5ae2bb67e406.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 5
+            },
+            "5036393": {
+                "id": 5036393,
+                "colorId": 2,
+                "colorName": "114",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/e436a72e-806b-4b62-9a9e-d0abc072a438.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/e436a72e-806b-4b62-9a9e-d0abc072a438.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/e436a72e-806b-4b62-9a9e-d0abc072a438.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/e436a72e-806b-4b62-9a9e-d0abc072a438.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/e436a72e-806b-4b62-9a9e-d0abc072a438.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/e436a72e-806b-4b62-9a9e-d0abc072a438.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/e436a72e-806b-4b62-9a9e-d0abc072a438.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/e436a72e-806b-4b62-9a9e-d0abc072a438.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/e436a72e-806b-4b62-9a9e-d0abc072a438.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/e436a72e-806b-4b62-9a9e-d0abc072a438.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/e436a72e-806b-4b62-9a9e-d0abc072a438.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/e436a72e-806b-4b62-9a9e-d0abc072a438.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 6
+            },
+            "5037343": {
+                "id": 5037343,
+                "colorId": 3,
+                "colorName": "146",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/a66fc958-599c-4a1f-9e7d-f2c1a9588077.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/a66fc958-599c-4a1f-9e7d-f2c1a9588077.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/a66fc958-599c-4a1f-9e7d-f2c1a9588077.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/a66fc958-599c-4a1f-9e7d-f2c1a9588077.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/a66fc958-599c-4a1f-9e7d-f2c1a9588077.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/a66fc958-599c-4a1f-9e7d-f2c1a9588077.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/a66fc958-599c-4a1f-9e7d-f2c1a9588077.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/a66fc958-599c-4a1f-9e7d-f2c1a9588077.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/a66fc958-599c-4a1f-9e7d-f2c1a9588077.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/a66fc958-599c-4a1f-9e7d-f2c1a9588077.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/a66fc958-599c-4a1f-9e7d-f2c1a9588077.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/a66fc958-599c-4a1f-9e7d-f2c1a9588077.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Main",
+                "mediaType": "Image",
+                "sortId": 1
+            },
+            "5037353": {
+                "id": 5037353,
+                "colorId": 3,
+                "colorName": "146",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/dbc324a0-e261-4db6-85ad-fd7ad5207319.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/dbc324a0-e261-4db6-85ad-fd7ad5207319.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/dbc324a0-e261-4db6-85ad-fd7ad5207319.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/dbc324a0-e261-4db6-85ad-fd7ad5207319.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/dbc324a0-e261-4db6-85ad-fd7ad5207319.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/dbc324a0-e261-4db6-85ad-fd7ad5207319.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/dbc324a0-e261-4db6-85ad-fd7ad5207319.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/dbc324a0-e261-4db6-85ad-fd7ad5207319.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/dbc324a0-e261-4db6-85ad-fd7ad5207319.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/dbc324a0-e261-4db6-85ad-fd7ad5207319.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/dbc324a0-e261-4db6-85ad-fd7ad5207319.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/dbc324a0-e261-4db6-85ad-fd7ad5207319.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 2
+            },
+            "5037363": {
+                "id": 5037363,
+                "colorId": 3,
+                "colorName": "146",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/1d50aaf2-432d-43c6-a570-7780ca1347fd.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/1d50aaf2-432d-43c6-a570-7780ca1347fd.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/1d50aaf2-432d-43c6-a570-7780ca1347fd.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/1d50aaf2-432d-43c6-a570-7780ca1347fd.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/1d50aaf2-432d-43c6-a570-7780ca1347fd.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/1d50aaf2-432d-43c6-a570-7780ca1347fd.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/1d50aaf2-432d-43c6-a570-7780ca1347fd.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/1d50aaf2-432d-43c6-a570-7780ca1347fd.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/1d50aaf2-432d-43c6-a570-7780ca1347fd.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/1d50aaf2-432d-43c6-a570-7780ca1347fd.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/1d50aaf2-432d-43c6-a570-7780ca1347fd.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/1d50aaf2-432d-43c6-a570-7780ca1347fd.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 3
+            },
+            "5037373": {
+                "id": 5037373,
+                "colorId": 3,
+                "colorName": "146",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/8640c86e-d442-4331-9f96-b135219f027e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/8640c86e-d442-4331-9f96-b135219f027e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/8640c86e-d442-4331-9f96-b135219f027e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/8640c86e-d442-4331-9f96-b135219f027e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/8640c86e-d442-4331-9f96-b135219f027e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/8640c86e-d442-4331-9f96-b135219f027e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/8640c86e-d442-4331-9f96-b135219f027e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/8640c86e-d442-4331-9f96-b135219f027e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/8640c86e-d442-4331-9f96-b135219f027e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/8640c86e-d442-4331-9f96-b135219f027e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/8640c86e-d442-4331-9f96-b135219f027e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/8640c86e-d442-4331-9f96-b135219f027e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 4
+            },
+            "5037383": {
+                "id": 5037383,
+                "colorId": 3,
+                "colorName": "146",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/4b9ff0b9-f36c-4129-a413-a4af81dbc199.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/4b9ff0b9-f36c-4129-a413-a4af81dbc199.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/4b9ff0b9-f36c-4129-a413-a4af81dbc199.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/4b9ff0b9-f36c-4129-a413-a4af81dbc199.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/4b9ff0b9-f36c-4129-a413-a4af81dbc199.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/4b9ff0b9-f36c-4129-a413-a4af81dbc199.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/4b9ff0b9-f36c-4129-a413-a4af81dbc199.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/4b9ff0b9-f36c-4129-a413-a4af81dbc199.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/4b9ff0b9-f36c-4129-a413-a4af81dbc199.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/4b9ff0b9-f36c-4129-a413-a4af81dbc199.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/4b9ff0b9-f36c-4129-a413-a4af81dbc199.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/4b9ff0b9-f36c-4129-a413-a4af81dbc199.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 5
+            },
+            "5037393": {
+                "id": 5037393,
+                "colorId": 3,
+                "colorName": "146",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/a7cb8949-31da-4e3c-8f79-4ae94484cece.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/a7cb8949-31da-4e3c-8f79-4ae94484cece.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/a7cb8949-31da-4e3c-8f79-4ae94484cece.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/a7cb8949-31da-4e3c-8f79-4ae94484cece.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/a7cb8949-31da-4e3c-8f79-4ae94484cece.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/a7cb8949-31da-4e3c-8f79-4ae94484cece.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/a7cb8949-31da-4e3c-8f79-4ae94484cece.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/a7cb8949-31da-4e3c-8f79-4ae94484cece.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/a7cb8949-31da-4e3c-8f79-4ae94484cece.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/a7cb8949-31da-4e3c-8f79-4ae94484cece.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/a7cb8949-31da-4e3c-8f79-4ae94484cece.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/a7cb8949-31da-4e3c-8f79-4ae94484cece.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 6
+            },
+            "5038343": {
+                "id": 5038343,
+                "colorId": 4,
+                "colorName": "301",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/4694307b-42e8-49a8-a3d0-53f8087f574e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/4694307b-42e8-49a8-a3d0-53f8087f574e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/4694307b-42e8-49a8-a3d0-53f8087f574e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/4694307b-42e8-49a8-a3d0-53f8087f574e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/4694307b-42e8-49a8-a3d0-53f8087f574e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/4694307b-42e8-49a8-a3d0-53f8087f574e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/4694307b-42e8-49a8-a3d0-53f8087f574e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/4694307b-42e8-49a8-a3d0-53f8087f574e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/4694307b-42e8-49a8-a3d0-53f8087f574e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/4694307b-42e8-49a8-a3d0-53f8087f574e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/4694307b-42e8-49a8-a3d0-53f8087f574e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/4694307b-42e8-49a8-a3d0-53f8087f574e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Main",
+                "mediaType": "Image",
+                "sortId": 1
+            },
+            "5038353": {
+                "id": 5038353,
+                "colorId": 4,
+                "colorName": "301",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/08e13628-316c-48f7-8303-1c1d937441fb.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/08e13628-316c-48f7-8303-1c1d937441fb.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/08e13628-316c-48f7-8303-1c1d937441fb.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/08e13628-316c-48f7-8303-1c1d937441fb.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/08e13628-316c-48f7-8303-1c1d937441fb.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/08e13628-316c-48f7-8303-1c1d937441fb.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/08e13628-316c-48f7-8303-1c1d937441fb.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/08e13628-316c-48f7-8303-1c1d937441fb.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/08e13628-316c-48f7-8303-1c1d937441fb.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/08e13628-316c-48f7-8303-1c1d937441fb.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/08e13628-316c-48f7-8303-1c1d937441fb.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/08e13628-316c-48f7-8303-1c1d937441fb.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 2
+            },
+            "5038363": {
+                "id": 5038363,
+                "colorId": 4,
+                "colorName": "301",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/03b7b8cf-3fd0-4ae5-a9cb-2b3a2ddfd6e9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/03b7b8cf-3fd0-4ae5-a9cb-2b3a2ddfd6e9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/03b7b8cf-3fd0-4ae5-a9cb-2b3a2ddfd6e9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/03b7b8cf-3fd0-4ae5-a9cb-2b3a2ddfd6e9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/03b7b8cf-3fd0-4ae5-a9cb-2b3a2ddfd6e9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/03b7b8cf-3fd0-4ae5-a9cb-2b3a2ddfd6e9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/03b7b8cf-3fd0-4ae5-a9cb-2b3a2ddfd6e9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/03b7b8cf-3fd0-4ae5-a9cb-2b3a2ddfd6e9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/03b7b8cf-3fd0-4ae5-a9cb-2b3a2ddfd6e9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/03b7b8cf-3fd0-4ae5-a9cb-2b3a2ddfd6e9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/03b7b8cf-3fd0-4ae5-a9cb-2b3a2ddfd6e9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/03b7b8cf-3fd0-4ae5-a9cb-2b3a2ddfd6e9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 3
+            },
+            "5038373": {
+                "id": 5038373,
+                "colorId": 4,
+                "colorName": "301",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/bafddf21-424a-4adf-a9bc-8435683a01c6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/bafddf21-424a-4adf-a9bc-8435683a01c6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/bafddf21-424a-4adf-a9bc-8435683a01c6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/bafddf21-424a-4adf-a9bc-8435683a01c6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/bafddf21-424a-4adf-a9bc-8435683a01c6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/bafddf21-424a-4adf-a9bc-8435683a01c6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/bafddf21-424a-4adf-a9bc-8435683a01c6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/bafddf21-424a-4adf-a9bc-8435683a01c6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/bafddf21-424a-4adf-a9bc-8435683a01c6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/bafddf21-424a-4adf-a9bc-8435683a01c6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/bafddf21-424a-4adf-a9bc-8435683a01c6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/bafddf21-424a-4adf-a9bc-8435683a01c6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 4
+            },
+            "5038383": {
+                "id": 5038383,
+                "colorId": 4,
+                "colorName": "301",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/6e278e1f-b5cc-4017-98a0-58738fb2c5ea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/6e278e1f-b5cc-4017-98a0-58738fb2c5ea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/6e278e1f-b5cc-4017-98a0-58738fb2c5ea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/6e278e1f-b5cc-4017-98a0-58738fb2c5ea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/6e278e1f-b5cc-4017-98a0-58738fb2c5ea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/6e278e1f-b5cc-4017-98a0-58738fb2c5ea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/6e278e1f-b5cc-4017-98a0-58738fb2c5ea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/6e278e1f-b5cc-4017-98a0-58738fb2c5ea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/6e278e1f-b5cc-4017-98a0-58738fb2c5ea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/6e278e1f-b5cc-4017-98a0-58738fb2c5ea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/6e278e1f-b5cc-4017-98a0-58738fb2c5ea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/6e278e1f-b5cc-4017-98a0-58738fb2c5ea.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 5
+            },
+            "5038393": {
+                "id": 5038393,
+                "colorId": 4,
+                "colorName": "301",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/d2796ba2-7c22-4593-80a2-c4f833be7752.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/d2796ba2-7c22-4593-80a2-c4f833be7752.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/d2796ba2-7c22-4593-80a2-c4f833be7752.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/d2796ba2-7c22-4593-80a2-c4f833be7752.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/d2796ba2-7c22-4593-80a2-c4f833be7752.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/d2796ba2-7c22-4593-80a2-c4f833be7752.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/d2796ba2-7c22-4593-80a2-c4f833be7752.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/d2796ba2-7c22-4593-80a2-c4f833be7752.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/d2796ba2-7c22-4593-80a2-c4f833be7752.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/d2796ba2-7c22-4593-80a2-c4f833be7752.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/d2796ba2-7c22-4593-80a2-c4f833be7752.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/d2796ba2-7c22-4593-80a2-c4f833be7752.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 6
+            },
+            "5039343": {
+                "id": 5039343,
+                "colorId": 5,
+                "colorName": "307",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/8e60c55e-6aea-4755-abe1-478469bc0722.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/8e60c55e-6aea-4755-abe1-478469bc0722.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/8e60c55e-6aea-4755-abe1-478469bc0722.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/8e60c55e-6aea-4755-abe1-478469bc0722.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/8e60c55e-6aea-4755-abe1-478469bc0722.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/8e60c55e-6aea-4755-abe1-478469bc0722.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/8e60c55e-6aea-4755-abe1-478469bc0722.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/8e60c55e-6aea-4755-abe1-478469bc0722.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/8e60c55e-6aea-4755-abe1-478469bc0722.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/8e60c55e-6aea-4755-abe1-478469bc0722.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/8e60c55e-6aea-4755-abe1-478469bc0722.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/8e60c55e-6aea-4755-abe1-478469bc0722.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Main",
+                "mediaType": "Image",
+                "sortId": 1
+            },
+            "5039353": {
+                "id": 5039353,
+                "colorId": 5,
+                "colorName": "307",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/7ab46f87-3df4-4699-ae2a-4145338d8a36.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/7ab46f87-3df4-4699-ae2a-4145338d8a36.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/7ab46f87-3df4-4699-ae2a-4145338d8a36.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/7ab46f87-3df4-4699-ae2a-4145338d8a36.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/7ab46f87-3df4-4699-ae2a-4145338d8a36.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/7ab46f87-3df4-4699-ae2a-4145338d8a36.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/7ab46f87-3df4-4699-ae2a-4145338d8a36.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/7ab46f87-3df4-4699-ae2a-4145338d8a36.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/7ab46f87-3df4-4699-ae2a-4145338d8a36.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/7ab46f87-3df4-4699-ae2a-4145338d8a36.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/7ab46f87-3df4-4699-ae2a-4145338d8a36.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/7ab46f87-3df4-4699-ae2a-4145338d8a36.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 2
+            },
+            "5039363": {
+                "id": 5039363,
+                "colorId": 5,
+                "colorName": "307",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/1b7a26a9-e7a4-4897-971e-dc21de2816b8.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/1b7a26a9-e7a4-4897-971e-dc21de2816b8.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/1b7a26a9-e7a4-4897-971e-dc21de2816b8.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/1b7a26a9-e7a4-4897-971e-dc21de2816b8.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/1b7a26a9-e7a4-4897-971e-dc21de2816b8.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/1b7a26a9-e7a4-4897-971e-dc21de2816b8.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/1b7a26a9-e7a4-4897-971e-dc21de2816b8.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/1b7a26a9-e7a4-4897-971e-dc21de2816b8.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/1b7a26a9-e7a4-4897-971e-dc21de2816b8.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/1b7a26a9-e7a4-4897-971e-dc21de2816b8.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/1b7a26a9-e7a4-4897-971e-dc21de2816b8.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/1b7a26a9-e7a4-4897-971e-dc21de2816b8.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 3
+            },
+            "5039373": {
+                "id": 5039373,
+                "colorId": 5,
+                "colorName": "307",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/322e3716-a2cf-4a9d-8e2c-32d8eb821d78.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/322e3716-a2cf-4a9d-8e2c-32d8eb821d78.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/322e3716-a2cf-4a9d-8e2c-32d8eb821d78.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/322e3716-a2cf-4a9d-8e2c-32d8eb821d78.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/322e3716-a2cf-4a9d-8e2c-32d8eb821d78.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/322e3716-a2cf-4a9d-8e2c-32d8eb821d78.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/322e3716-a2cf-4a9d-8e2c-32d8eb821d78.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/322e3716-a2cf-4a9d-8e2c-32d8eb821d78.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/322e3716-a2cf-4a9d-8e2c-32d8eb821d78.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/322e3716-a2cf-4a9d-8e2c-32d8eb821d78.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/322e3716-a2cf-4a9d-8e2c-32d8eb821d78.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/322e3716-a2cf-4a9d-8e2c-32d8eb821d78.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 4
+            },
+            "5039383": {
+                "id": 5039383,
+                "colorId": 5,
+                "colorName": "307",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/1da13903-d1ec-4a34-828b-fe3a9e49ef6e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/1da13903-d1ec-4a34-828b-fe3a9e49ef6e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/1da13903-d1ec-4a34-828b-fe3a9e49ef6e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/1da13903-d1ec-4a34-828b-fe3a9e49ef6e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/1da13903-d1ec-4a34-828b-fe3a9e49ef6e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/1da13903-d1ec-4a34-828b-fe3a9e49ef6e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/1da13903-d1ec-4a34-828b-fe3a9e49ef6e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/1da13903-d1ec-4a34-828b-fe3a9e49ef6e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/1da13903-d1ec-4a34-828b-fe3a9e49ef6e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/1da13903-d1ec-4a34-828b-fe3a9e49ef6e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/1da13903-d1ec-4a34-828b-fe3a9e49ef6e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/1da13903-d1ec-4a34-828b-fe3a9e49ef6e.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 5
+            },
+            "5039393": {
+                "id": 5039393,
+                "colorId": 5,
+                "colorName": "307",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/34790f99-2873-4c8c-b407-8fb3c41ebeb9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/34790f99-2873-4c8c-b407-8fb3c41ebeb9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/34790f99-2873-4c8c-b407-8fb3c41ebeb9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/34790f99-2873-4c8c-b407-8fb3c41ebeb9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/34790f99-2873-4c8c-b407-8fb3c41ebeb9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/34790f99-2873-4c8c-b407-8fb3c41ebeb9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/34790f99-2873-4c8c-b407-8fb3c41ebeb9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/34790f99-2873-4c8c-b407-8fb3c41ebeb9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/34790f99-2873-4c8c-b407-8fb3c41ebeb9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/34790f99-2873-4c8c-b407-8fb3c41ebeb9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/34790f99-2873-4c8c-b407-8fb3c41ebeb9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/34790f99-2873-4c8c-b407-8fb3c41ebeb9.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 6
+            },
+            "5040343": {
+                "id": 5040343,
+                "colorId": 6,
+                "colorName": "400",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/13700fe5-a2de-4c50-ac79-2225292e2eb6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/13700fe5-a2de-4c50-ac79-2225292e2eb6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/13700fe5-a2de-4c50-ac79-2225292e2eb6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/13700fe5-a2de-4c50-ac79-2225292e2eb6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/13700fe5-a2de-4c50-ac79-2225292e2eb6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/13700fe5-a2de-4c50-ac79-2225292e2eb6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/13700fe5-a2de-4c50-ac79-2225292e2eb6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/13700fe5-a2de-4c50-ac79-2225292e2eb6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/13700fe5-a2de-4c50-ac79-2225292e2eb6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/13700fe5-a2de-4c50-ac79-2225292e2eb6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/13700fe5-a2de-4c50-ac79-2225292e2eb6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/13700fe5-a2de-4c50-ac79-2225292e2eb6.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Main",
+                "mediaType": "Image",
+                "sortId": 1
+            },
+            "5040353": {
+                "id": 5040353,
+                "colorId": 6,
+                "colorName": "400",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/2c2ba02e-e086-4f76-acf3-615e804be462.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/2c2ba02e-e086-4f76-acf3-615e804be462.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/2c2ba02e-e086-4f76-acf3-615e804be462.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/2c2ba02e-e086-4f76-acf3-615e804be462.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/2c2ba02e-e086-4f76-acf3-615e804be462.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/2c2ba02e-e086-4f76-acf3-615e804be462.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/2c2ba02e-e086-4f76-acf3-615e804be462.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/2c2ba02e-e086-4f76-acf3-615e804be462.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/2c2ba02e-e086-4f76-acf3-615e804be462.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/2c2ba02e-e086-4f76-acf3-615e804be462.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/2c2ba02e-e086-4f76-acf3-615e804be462.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/2c2ba02e-e086-4f76-acf3-615e804be462.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 2
+            },
+            "5040363": {
+                "id": 5040363,
+                "colorId": 6,
+                "colorName": "400",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/90744cdb-fd8c-4e0a-a43f-c73e7cd02ca0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/90744cdb-fd8c-4e0a-a43f-c73e7cd02ca0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/90744cdb-fd8c-4e0a-a43f-c73e7cd02ca0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/90744cdb-fd8c-4e0a-a43f-c73e7cd02ca0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/90744cdb-fd8c-4e0a-a43f-c73e7cd02ca0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/90744cdb-fd8c-4e0a-a43f-c73e7cd02ca0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/90744cdb-fd8c-4e0a-a43f-c73e7cd02ca0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/90744cdb-fd8c-4e0a-a43f-c73e7cd02ca0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/90744cdb-fd8c-4e0a-a43f-c73e7cd02ca0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/90744cdb-fd8c-4e0a-a43f-c73e7cd02ca0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/90744cdb-fd8c-4e0a-a43f-c73e7cd02ca0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/90744cdb-fd8c-4e0a-a43f-c73e7cd02ca0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 3
+            },
+            "5040373": {
+                "id": 5040373,
+                "colorId": 6,
+                "colorName": "400",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/4f709296-34fd-4d7f-9820-e34ad4ab6caf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/4f709296-34fd-4d7f-9820-e34ad4ab6caf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/4f709296-34fd-4d7f-9820-e34ad4ab6caf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/4f709296-34fd-4d7f-9820-e34ad4ab6caf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/4f709296-34fd-4d7f-9820-e34ad4ab6caf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/4f709296-34fd-4d7f-9820-e34ad4ab6caf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/4f709296-34fd-4d7f-9820-e34ad4ab6caf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/4f709296-34fd-4d7f-9820-e34ad4ab6caf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/4f709296-34fd-4d7f-9820-e34ad4ab6caf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/4f709296-34fd-4d7f-9820-e34ad4ab6caf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/4f709296-34fd-4d7f-9820-e34ad4ab6caf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/4f709296-34fd-4d7f-9820-e34ad4ab6caf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 4
+            },
+            "5040383": {
+                "id": 5040383,
+                "colorId": 6,
+                "colorName": "400",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/a8083ba8-562f-41d7-88ac-dfce40e25dcc.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/a8083ba8-562f-41d7-88ac-dfce40e25dcc.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/a8083ba8-562f-41d7-88ac-dfce40e25dcc.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/a8083ba8-562f-41d7-88ac-dfce40e25dcc.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/a8083ba8-562f-41d7-88ac-dfce40e25dcc.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/a8083ba8-562f-41d7-88ac-dfce40e25dcc.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/a8083ba8-562f-41d7-88ac-dfce40e25dcc.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/a8083ba8-562f-41d7-88ac-dfce40e25dcc.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/a8083ba8-562f-41d7-88ac-dfce40e25dcc.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/a8083ba8-562f-41d7-88ac-dfce40e25dcc.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/a8083ba8-562f-41d7-88ac-dfce40e25dcc.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/a8083ba8-562f-41d7-88ac-dfce40e25dcc.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 5
+            },
+            "5040393": {
+                "id": 5040393,
+                "colorId": 6,
+                "colorName": "400",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/1134cd6a-7f7c-42cd-8b21-e1526f95cf02.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/1134cd6a-7f7c-42cd-8b21-e1526f95cf02.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/1134cd6a-7f7c-42cd-8b21-e1526f95cf02.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/1134cd6a-7f7c-42cd-8b21-e1526f95cf02.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/1134cd6a-7f7c-42cd-8b21-e1526f95cf02.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/1134cd6a-7f7c-42cd-8b21-e1526f95cf02.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/1134cd6a-7f7c-42cd-8b21-e1526f95cf02.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/1134cd6a-7f7c-42cd-8b21-e1526f95cf02.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/1134cd6a-7f7c-42cd-8b21-e1526f95cf02.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/1134cd6a-7f7c-42cd-8b21-e1526f95cf02.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/1134cd6a-7f7c-42cd-8b21-e1526f95cf02.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/1134cd6a-7f7c-42cd-8b21-e1526f95cf02.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 6
+            },
+            "5041343": {
+                "id": 5041343,
+                "colorId": 7,
+                "colorName": "650",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/11c133f6-3f80-4ab0-adf8-4e676b90271c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/11c133f6-3f80-4ab0-adf8-4e676b90271c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/11c133f6-3f80-4ab0-adf8-4e676b90271c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/11c133f6-3f80-4ab0-adf8-4e676b90271c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/11c133f6-3f80-4ab0-adf8-4e676b90271c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/11c133f6-3f80-4ab0-adf8-4e676b90271c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/11c133f6-3f80-4ab0-adf8-4e676b90271c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/11c133f6-3f80-4ab0-adf8-4e676b90271c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/11c133f6-3f80-4ab0-adf8-4e676b90271c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/11c133f6-3f80-4ab0-adf8-4e676b90271c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/11c133f6-3f80-4ab0-adf8-4e676b90271c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/11c133f6-3f80-4ab0-adf8-4e676b90271c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Main",
+                "mediaType": "Image",
+                "sortId": 1
+            },
+            "5041353": {
+                "id": 5041353,
+                "colorId": 7,
+                "colorName": "650",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/44eca0b6-ac34-4e69-95de-4cdcb1ffae89.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/44eca0b6-ac34-4e69-95de-4cdcb1ffae89.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/44eca0b6-ac34-4e69-95de-4cdcb1ffae89.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/44eca0b6-ac34-4e69-95de-4cdcb1ffae89.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/44eca0b6-ac34-4e69-95de-4cdcb1ffae89.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/44eca0b6-ac34-4e69-95de-4cdcb1ffae89.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/44eca0b6-ac34-4e69-95de-4cdcb1ffae89.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/44eca0b6-ac34-4e69-95de-4cdcb1ffae89.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/44eca0b6-ac34-4e69-95de-4cdcb1ffae89.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/44eca0b6-ac34-4e69-95de-4cdcb1ffae89.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/44eca0b6-ac34-4e69-95de-4cdcb1ffae89.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/44eca0b6-ac34-4e69-95de-4cdcb1ffae89.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 2
+            },
+            "5041363": {
+                "id": 5041363,
+                "colorId": 7,
+                "colorName": "650",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/31c986bd-17f4-404e-8b37-1a1c2a2b7294.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/31c986bd-17f4-404e-8b37-1a1c2a2b7294.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/31c986bd-17f4-404e-8b37-1a1c2a2b7294.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/31c986bd-17f4-404e-8b37-1a1c2a2b7294.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/31c986bd-17f4-404e-8b37-1a1c2a2b7294.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/31c986bd-17f4-404e-8b37-1a1c2a2b7294.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/31c986bd-17f4-404e-8b37-1a1c2a2b7294.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/31c986bd-17f4-404e-8b37-1a1c2a2b7294.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/31c986bd-17f4-404e-8b37-1a1c2a2b7294.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/31c986bd-17f4-404e-8b37-1a1c2a2b7294.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/31c986bd-17f4-404e-8b37-1a1c2a2b7294.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/31c986bd-17f4-404e-8b37-1a1c2a2b7294.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 3
+            },
+            "5041373": {
+                "id": 5041373,
+                "colorId": 7,
+                "colorName": "650",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/7c9c8dac-4747-4d29-9956-522821681a4f.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/7c9c8dac-4747-4d29-9956-522821681a4f.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/7c9c8dac-4747-4d29-9956-522821681a4f.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/7c9c8dac-4747-4d29-9956-522821681a4f.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/7c9c8dac-4747-4d29-9956-522821681a4f.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/7c9c8dac-4747-4d29-9956-522821681a4f.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/7c9c8dac-4747-4d29-9956-522821681a4f.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/7c9c8dac-4747-4d29-9956-522821681a4f.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/7c9c8dac-4747-4d29-9956-522821681a4f.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/7c9c8dac-4747-4d29-9956-522821681a4f.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/7c9c8dac-4747-4d29-9956-522821681a4f.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/7c9c8dac-4747-4d29-9956-522821681a4f.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 4
+            },
+            "5041383": {
+                "id": 5041383,
+                "colorId": 7,
+                "colorName": "650",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/db98df28-6e34-42a4-814b-2aedff1e0452.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/db98df28-6e34-42a4-814b-2aedff1e0452.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/db98df28-6e34-42a4-814b-2aedff1e0452.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/db98df28-6e34-42a4-814b-2aedff1e0452.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/db98df28-6e34-42a4-814b-2aedff1e0452.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/db98df28-6e34-42a4-814b-2aedff1e0452.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/db98df28-6e34-42a4-814b-2aedff1e0452.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/db98df28-6e34-42a4-814b-2aedff1e0452.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/db98df28-6e34-42a4-814b-2aedff1e0452.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/db98df28-6e34-42a4-814b-2aedff1e0452.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/db98df28-6e34-42a4-814b-2aedff1e0452.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/db98df28-6e34-42a4-814b-2aedff1e0452.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 5
+            },
+            "5041393": {
+                "id": 5041393,
+                "colorId": 7,
+                "colorName": "650",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/e4da8faf-4f9c-4c55-b3b5-16408bb678be.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/e4da8faf-4f9c-4c55-b3b5-16408bb678be.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/e4da8faf-4f9c-4c55-b3b5-16408bb678be.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/e4da8faf-4f9c-4c55-b3b5-16408bb678be.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/e4da8faf-4f9c-4c55-b3b5-16408bb678be.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/e4da8faf-4f9c-4c55-b3b5-16408bb678be.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/e4da8faf-4f9c-4c55-b3b5-16408bb678be.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/e4da8faf-4f9c-4c55-b3b5-16408bb678be.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/e4da8faf-4f9c-4c55-b3b5-16408bb678be.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/e4da8faf-4f9c-4c55-b3b5-16408bb678be.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/e4da8faf-4f9c-4c55-b3b5-16408bb678be.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/e4da8faf-4f9c-4c55-b3b5-16408bb678be.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 6
+            },
+            "5042343": {
+                "id": 5042343,
+                "colorId": 8,
+                "colorName": "800",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/bdbcdc66-5a9e-460b-a643-a6975c5642d0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/bdbcdc66-5a9e-460b-a643-a6975c5642d0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/bdbcdc66-5a9e-460b-a643-a6975c5642d0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/bdbcdc66-5a9e-460b-a643-a6975c5642d0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/bdbcdc66-5a9e-460b-a643-a6975c5642d0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/bdbcdc66-5a9e-460b-a643-a6975c5642d0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/bdbcdc66-5a9e-460b-a643-a6975c5642d0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/bdbcdc66-5a9e-460b-a643-a6975c5642d0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/bdbcdc66-5a9e-460b-a643-a6975c5642d0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/bdbcdc66-5a9e-460b-a643-a6975c5642d0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/bdbcdc66-5a9e-460b-a643-a6975c5642d0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/bdbcdc66-5a9e-460b-a643-a6975c5642d0.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Main",
+                "mediaType": "Image",
+                "sortId": 1
+            },
+            "5042353": {
+                "id": 5042353,
+                "colorId": 8,
+                "colorName": "800",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/0cb4a330-cc30-4e4a-a542-11254112f352.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/0cb4a330-cc30-4e4a-a542-11254112f352.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/0cb4a330-cc30-4e4a-a542-11254112f352.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/0cb4a330-cc30-4e4a-a542-11254112f352.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/0cb4a330-cc30-4e4a-a542-11254112f352.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/0cb4a330-cc30-4e4a-a542-11254112f352.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/0cb4a330-cc30-4e4a-a542-11254112f352.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/0cb4a330-cc30-4e4a-a542-11254112f352.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/0cb4a330-cc30-4e4a-a542-11254112f352.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/0cb4a330-cc30-4e4a-a542-11254112f352.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/0cb4a330-cc30-4e4a-a542-11254112f352.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/0cb4a330-cc30-4e4a-a542-11254112f352.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 2
+            },
+            "5042363": {
+                "id": 5042363,
+                "colorId": 8,
+                "colorName": "800",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/683a0124-e54d-47d0-aa0e-3db83f0cd645.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/683a0124-e54d-47d0-aa0e-3db83f0cd645.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/683a0124-e54d-47d0-aa0e-3db83f0cd645.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/683a0124-e54d-47d0-aa0e-3db83f0cd645.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/683a0124-e54d-47d0-aa0e-3db83f0cd645.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/683a0124-e54d-47d0-aa0e-3db83f0cd645.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/683a0124-e54d-47d0-aa0e-3db83f0cd645.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/683a0124-e54d-47d0-aa0e-3db83f0cd645.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/683a0124-e54d-47d0-aa0e-3db83f0cd645.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/683a0124-e54d-47d0-aa0e-3db83f0cd645.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/683a0124-e54d-47d0-aa0e-3db83f0cd645.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/683a0124-e54d-47d0-aa0e-3db83f0cd645.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 3
+            },
+            "5042373": {
+                "id": 5042373,
+                "colorId": 8,
+                "colorName": "800",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/4ccdcc26-3709-4a5d-b187-1883c0379c0d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/4ccdcc26-3709-4a5d-b187-1883c0379c0d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/4ccdcc26-3709-4a5d-b187-1883c0379c0d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/4ccdcc26-3709-4a5d-b187-1883c0379c0d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/4ccdcc26-3709-4a5d-b187-1883c0379c0d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/4ccdcc26-3709-4a5d-b187-1883c0379c0d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/4ccdcc26-3709-4a5d-b187-1883c0379c0d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/4ccdcc26-3709-4a5d-b187-1883c0379c0d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/4ccdcc26-3709-4a5d-b187-1883c0379c0d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/4ccdcc26-3709-4a5d-b187-1883c0379c0d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/4ccdcc26-3709-4a5d-b187-1883c0379c0d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/4ccdcc26-3709-4a5d-b187-1883c0379c0d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 4
+            },
+            "5042383": {
+                "id": 5042383,
+                "colorId": 8,
+                "colorName": "800",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/399e2d37-c1d7-4b71-8cba-e5936d7f719b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/399e2d37-c1d7-4b71-8cba-e5936d7f719b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/399e2d37-c1d7-4b71-8cba-e5936d7f719b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/399e2d37-c1d7-4b71-8cba-e5936d7f719b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/399e2d37-c1d7-4b71-8cba-e5936d7f719b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/399e2d37-c1d7-4b71-8cba-e5936d7f719b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/399e2d37-c1d7-4b71-8cba-e5936d7f719b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/399e2d37-c1d7-4b71-8cba-e5936d7f719b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/399e2d37-c1d7-4b71-8cba-e5936d7f719b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/399e2d37-c1d7-4b71-8cba-e5936d7f719b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/399e2d37-c1d7-4b71-8cba-e5936d7f719b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/399e2d37-c1d7-4b71-8cba-e5936d7f719b.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 5
+            },
+            "5042393": {
+                "id": 5042393,
+                "colorId": 8,
+                "colorName": "800",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/b0c5e0d6-6d99-409b-9c8a-731520859b19.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/b0c5e0d6-6d99-409b-9c8a-731520859b19.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/b0c5e0d6-6d99-409b-9c8a-731520859b19.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/b0c5e0d6-6d99-409b-9c8a-731520859b19.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/b0c5e0d6-6d99-409b-9c8a-731520859b19.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/b0c5e0d6-6d99-409b-9c8a-731520859b19.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/b0c5e0d6-6d99-409b-9c8a-731520859b19.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/b0c5e0d6-6d99-409b-9c8a-731520859b19.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/b0c5e0d6-6d99-409b-9c8a-731520859b19.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/b0c5e0d6-6d99-409b-9c8a-731520859b19.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/b0c5e0d6-6d99-409b-9c8a-731520859b19.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/b0c5e0d6-6d99-409b-9c8a-731520859b19.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": false,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 6
+            }
+        },
+        "allIds": [
+            5034343,
+            5034353,
+            5034363,
+            5034373,
+            5034383,
+            5034393,
+            5035343,
+            5035353,
+            5035363,
+            5035373,
+            5035383,
+            5035393,
+            5036343,
+            5036353,
+            5036363,
+            5036373,
+            5036383,
+            5036393,
+            5037343,
+            5037353,
+            5037363,
+            5037373,
+            5037383,
+            5037393,
+            5038343,
+            5038353,
+            5038363,
+            5038373,
+            5038383,
+            5038393,
+            5039343,
+            5039353,
+            5039363,
+            5039373,
+            5039383,
+            5039393,
+            5040343,
+            5040353,
+            5040363,
+            5040373,
+            5040383,
+            5040393,
+            5041343,
+            5041353,
+            5041363,
+            5041373,
+            5041383,
+            5041393,
+            5042343,
+            5042353,
+            5042363,
+            5042373,
+            5042383,
+            5042393
+        ]
+    },
+    "styleNumber": "5675701",
+    "styleVideos": {
+        "byId": {},
+        "allIds": []
+    },
+    "treatmentType": "Regular",
+    "vendorVideoShot": null,
+    "page": {
+        "PageName": "pdp 1/19/21",
+        "Components": [
+            {
+                "Id": "0a60d88f-a7f7-4ca3-997e-cbf8092f61a1",
+                "ComponentName": "Gift Options",
+                "SchemaName": "pdpGiftOptions",
+                "Sections": {
+                    "Bottom": {
+                        "Button": "Shop Gifts",
+                        "ButtonMobile": "Shop Gifts",
+                        "FooterText": "Need help finding the perfect gift? We’ve got you covered.",
+                        "Url": "/browse/gifts"
+                    },
+                    "Left": {
+                        "FirstIcon": "GiftMessage",
+                        "FirstText": "Gift message (free)",
+                        "FourthIcon": "GiftWrapService",
+                        "FourthText": "Wrapped with signature gift wrap (free)",
+                        "Header": "Pickup \u0026 In-Store ",
+                        "SecondIcon": "GiftDIYKit",
+                        "SecondText": "DIY gift kit (free)",
+                        "ThirdIcon": "MediumGift",
+                        "ThirdText": "Packaged in a Nordstrom box (free)"
+                    },
+                    "Right": {
+                        "FirstIcon": "GiftMessage",
+                        "FirstText": "Gift message (free)",
+                        "Header": "Delivery",
+                        "SecondIcon": "GiftDIYKit",
+                        "SecondText": "DIY gift kit ($2)",
+                        "ThirdIcon": "MediumGift",
+                        "ThirdText": "Packaged in a Nordstrom box ($3)"
+                    },
+                    "Top": {
+                        "Header": "GIFT OPTIONS",
+                        "Icon": "LargeGift",
+                        "Text": "Get free gift wrap when you pick up your order at a Nordstrom store! Choose gift options when you check out. Some items may not be eligible for certain gift wrap options."
+                    }
+                }
+            },
+            {
+                "Id": "63cd3f6a-5c43-473b-bbed-69440b9ce994",
+                "ComponentName": "Free Shipping",
+                "SchemaName": "pdpPriceLockupShippingText",
+                "Sections": {
+                    "ShippingText": {
+                        "shippingText": "Free Shipping"
+                    }
+                }
+            },
+            {
+                "Id": "aa6b49f3-08f8-4feb-8b65-9c7422550654",
+                "ComponentName": "Shipping Details",
+                "SchemaName": "pdpShippingDetails",
+                "Sections": {
+                    "ShippingDetails": {
+                        "collapseDetailsLinkText": "See less",
+                        "expandDetailsLinkText": "See more",
+                        "heading": "Free Shipping \u0026 returns",
+                        "sameDayDeliveryForSkuAvailableCopy": "\u003cp\u003eYour selection is available for delivery in your area. Order by 1pm local time and select Same-Day Delivery ($15) at Checkout.\u003c/p\u003e",
+                        "sameDayDeliveryForSkuUnavailableCopy": "\u003cp\u003eYour selection isn't available for Same-Day Delivery in your area. Other expedited shipping methods are available at Checkout.\u003c/p\u003e",
+                        "showEligibleZipCodesModalLinkText": "Show eligible zip codes and details.",
+                        "standardShippingCopy": "\u003cp\u003eThis product isn't available for Same-Day Delivery in your area. Other expedited shipping methods are available at Checkout.\u003c/p\u003e"
+                    }
+                }
+            },
+            {
+                "Id": "2ff70fa8-fa09-411f-a569-bc9b20bf9859",
+                "ComponentName": "BOFLEX",
+                "SchemaName": "pdpBoflex",
+                "Sections": {
+                    "Boflex": {
+                        "Location": "SHOPPING IN:",
+                        "SetLocation": "Set Location"
+                    },
+                    "FreePickupRadioButton": {
+                        "ChooseStore": "Choose store",
+                        "FreePickup": "Free Pickup",
+                        "FreePickupAt": "Free Pickup at",
+                        "NotAvailable": "Not available for pickup"
+                    },
+                    "FreeShippingRadioButton": {
+                        "FreeShipping": "Free Shipping to",
+                        "ShippingEta": "Arrives between "
+                    },
+                    "PickUpPromises": {
+                        "NotInStock": "Not available",
+                        "TryAnotherLocation": "Try another location."
+                    },
+                    "PickupAndDeliveryModal": {
+                        "FreeShipping": {
+                            "Arrival": "Arrives between",
+                            "Title": "Free Shipping to"
+                        },
+                        "PickupSection": {
+                            "Available": "Available for pickup near you at",
+                            "Locations": "locations",
+                            "NotAvailableDescription": "\u003cp\u003eStill want free pickup? Choose \u003cstrong\u003eShip to a Nordstrom Store\u003c/strong\u003e at Checkout and pick up your order later.\u003c/p\u003e",
+                            "NotAvailableTitle": "Not available at a store near you",
+                            "SeeMore": "See more"
+                        },
+                        "SubmitButton": "Apply",
+                        "Title": "Pickup \u0026 Delivery",
+                        "ZipCodeForm": {
+                            "Description": "Set a location to see pickup and delivery options.",
+                            "ErrorMessage": "We can’t check your location right now. Try again soon.",
+                            "SubmitButton": "Find Locations",
+                            "TryAgain": "Enter the ZIP Code and try again."
+                        }
+                    },
+                    "Promotions": {},
+                    "ShipToPromises": {
+                        "Arrival": "Arrives between ",
+                        "Shipping": "Free Shipping",
+                        "ShippingSpecialMessage": "We're offering free curbside and in-store pickup."
+                    },
+                    "ZipCodeForm": {
+                        "EnterYourZipcode": "Enter your zip code to see delivery \u0026 pickup options near you.",
+                        "ErrorMessage": "We can’t check your location right now. Try again soon.",
+                        "TryAgainMessage": "Enter the ZIP Code and try again."
+                    }
+                }
+            },
+            {
+                "Id": "1fdd698c-4986-4890-b6d5-7eb027105765",
+                "ComponentName": "ACTIVEVIEWER",
+                "SchemaName": "activeViewerText",
+                "Sections": {
+                    "ActiveViewerText": {
+                        "activeViewerText": "people are viewing"
+                    }
+                }
+            },
+            {
+                "Id": "fb71156e-3cdc-4c8b-9c09-f3ea448c31b5",
+                "ComponentName": "Wishlist",
+                "SchemaName": "pdpModule",
+                "Modules": [
+                    {
+                        "heading": "Add_To_Wishlist",
+                        "text": "Add to Wish List"
+                    },
+                    {
+                        "heading": "Added_To_Wishlist",
+                        "text": "Added to Wish List"
+                    }
+                ]
+            },
+            {
+                "Id": "9d62e0a4-0516-4265-b5f5-368ddbfc7903",
+                "ComponentName": "GiftOptionsLink",
+                "SchemaName": "pdpModule",
+                "Modules": [
+                    {
+                        "heading": "Gift_Options_Link",
+                        "text": "Gift options"
+                    }
+                ]
+            },
+            {
+                "Id": "5d8dbe9e-2f3a-4e86-986f-c2f0605e4623",
+                "ComponentName": "TD Bank Message 40",
+                "SchemaName": "pdpModule",
+                "Modules": [
+                    {
+                        "heading": "TD_Bank_Message",
+                        "text": "Get a $40 Bonus Note when you use a new Nordstrom credit card."
+                    },
+                    {
+                        "heading": "TD_Bank_Apply",
+                        "text": "Apply now",
+                        "textUrl": "https://www.nordstrom.com/creditcard/entry?cc=AA1002"
+                    }
+                ]
+            },
+            {
+                "Id": "7bddb30d-ef9b-4235-a2d8-a79ab5cea238",
+                "ComponentName": "Scheduled Fulfillment",
+                "SchemaName": "pdpModule",
+                "Modules": [
+                    {
+                        "heading": "BackOrderTitle",
+                        "text": "Backordered Item:"
+                    },
+                    {
+                        "heading": "BackOrderText",
+                        "text": "Your current size and color combination will ship on or around \u003c%= date %\u003e."
+                    },
+                    {
+                        "heading": "PreOrderTitle",
+                        "text": "Pre-order this style today!"
+                    },
+                    {
+                        "heading": "PreOrderText",
+                        "text": "Ships as soon as available. You'll be charged only when your item ships."
+                    }
+                ]
+            },
+            {
+                "Id": "d8ae5594-e265-49ac-b8d9-43d7b1ceb387",
+                "ComponentName": "Free Two Day Shipping",
+                "SchemaName": "pdpModule",
+                "Modules": [
+                    {
+                        "heading": "Free_Two_Day_Shipping",
+                        "text": "Cardmembers get Free Two-Day Shipping on this item."
+                    }
+                ]
+            },
+            {
+                "Id": "43b18262-8d00-40b9-b52c-affc2ec5c667",
+                "ComponentName": "Chat",
+                "SchemaName": "pdpModule",
+                "Modules": [
+                    {
+                        "heading": "Title",
+                        "text": "HAVE QUESTIONS?"
+                    },
+                    {
+                        "heading": "Description",
+                        "text": "Connect with us to get free style advice, product recommendations or customer service help."
+                    },
+                    {
+                        "heading": "Chat_Now_Button",
+                        "text": "Chat Now"
+                    },
+                    {
+                        "heading": "Modal_Title",
+                        "text": "We're here to help"
+                    },
+                    {
+                        "heading": "Modal_Stylist_Chat_Button",
+                        "text": "Chat with a Stylist",
+                        "textUrl": "/styling-chat-on-web?origin=pdp"
+                    },
+                    {
+                        "heading": "Modal_Care_Description",
+                        "text": "Need help with an order or return?"
+                    },
+                    {
+                        "heading": "Modal_Care_Chat_Button",
+                        "text": "Chat with Customer Care",
+                        "textUrl": "https://nordstrom.custhelp.com/app/chat/chat_launch/incidents.c$sent_queueid/1?jid=j011676-12399\u0026cm_sp=merch-_-services_12399_j011676-_-freelayout_corp_p05_details"
+                    },
+                    {
+                        "heading": "Modal_Stylist_Description",
+                        "text": "Get free style help and product recommendations"
+                    }
+                ]
+            },
+            {
+                "Id": "5ed68542-c315-4c86-b746-121d04791c93",
+                "ComponentName": "Bopus_V4",
+                "SchemaName": "pdpModule",
+                "Modules": [
+                    {
+                        "heading": "Use_Location",
+                        "text": "Use my current location"
+                    },
+                    {
+                        "heading": "Zip_Form_Heading",
+                        "text": "Edit ZIP Code"
+                    },
+                    {
+                        "heading": "Zip_Form_Description",
+                        "text": "Enter a ZIP Code to see when it will arrive."
+                    },
+                    {
+                        "heading": "Zip_Form_Apply_Button",
+                        "text": "Apply"
+                    },
+                    {
+                        "heading": "Zip_Form_Submit_Button",
+                        "text": "Search"
+                    },
+                    {
+                        "heading": "Pickup_Modal_Title",
+                        "text": "Choose store"
+                    },
+                    {
+                        "heading": "Pickup_Modal_Heading_Intro",
+                        "text": "We offer safe in-store and"
+                    },
+                    {
+                        "heading": "Pickup_Modal_Heading_Link",
+                        "text": "Curbside Pickup",
+                        "textUrl": "/browse/customer-service/shipping-methods-charges"
+                    },
+                    {
+                        "heading": "Pickup_Modal_Heading_Punctuation",
+                        "text": "."
+                    },
+                    {
+                        "heading": "Pickup_Modal_Store_Availability",
+                        "text": "stores near you"
+                    },
+                    {
+                        "heading": "Pickup_Modal_No_Availability",
+                        "text": "Not available for pickup near you"
+                    },
+                    {
+                        "heading": "Pickup_Modal_Nearby_Stores",
+                        "text": "Available at stores near you"
+                    },
+                    {
+                        "heading": "Curbside_Available",
+                        "text": "Curbside Pickup available"
+                    },
+                    {
+                        "heading": "Pickup_Modal_Form_Description",
+                        "text": "Enter a ZIP Code to see pickup options."
+                    }
+                ]
+            }
+        ]
+    }
+}

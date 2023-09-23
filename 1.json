@@ -1,0 +1,830 @@
+{
+    "id": 5445302,
+    "ageGroups": [
+        "Adult"
+    ],
+    "reviewAverageRating": 0,
+    "enticements": [],
+    "enticementPlacements": [
+        {
+            "name": "product-page-2",
+            "enticements": [
+                {
+                    "type": "TDBankBopusPromo",
+                    "title": "\u003cp\u003eGet a $40 Bonus Note when you use a new Nordstrom credit card. \u003ca title=\"\" href=\"https://www.nordstrom.com/creditcard/entry?cc=AA1002\"\u003eApply now\u003c/a\u003e\u003c/p\u003e"
+                }
+            ]
+        }
+    ],
+    "brand": {
+        "brandName": "NIKE",
+        "brandUrl": "/brands/nike--535?origin=productBrandLink",
+        "imsBrandId": 1673
+    },
+    "buyAndSave": "",
+    "buyAndSaveOffer": null,
+    "categoryId": "/siteentryviaproductpage/",
+    "consumers": [
+        "product-page"
+    ],
+    "customizationCode": "",
+    "description": "\u003cp\u003eSleek and low, this '70s-throwback sneaker sports an upper of crisp nylon canvas framed in soft suede with spongy foam spilling from the raw-edged tongue. Lace-to-toe construction keeps the look very vintage, with square nubs on the tread offering traction in any decade.\u003c/p\u003e",
+    "defaultGalleryMedia": {
+        "styleMediaId": 5446302,
+        "colorId": 980649,
+        "isTrimmed": true,
+        "styleMediaIds": [
+            5446302,
+            5446312,
+            5446322,
+            5446332,
+            5446342,
+            5446352,
+            5446362,
+            5446372
+        ]
+    },
+    "eGiftToken": null,
+    "eGiftUrl": null,
+    "eventFlags": {
+        "isVipPreOrderProduct": false,
+        "isAnniversaryProduct": false
+    },
+    "features": [
+        "Lace-up style",
+        "Memory foam footbed",
+        "Synthetic and leather upper/synthetic and textile lining/rubber sole",
+        "Imported",
+        "Nordstrom x Nike"
+    ],
+    "filters": {
+        "color": {
+            "byId": {
+                "980649": {
+                    "id": 980649,
+                    "code": "801",
+                    "isSelected": false,
+                    "isDefault": true,
+                    "value": "Team Orange/ Royal/ Blackdnu",
+                    "displayValue": "Team Orange/ Royal/ Blackdnu",
+                    "shouldDisplay": true,
+                    "filterType": "color",
+                    "isAvailableWith": "_s:10+w:m|_s:9.5+w:m|",
+                    "relatedSkuIds": [
+                        41847876,
+                        41848593
+                    ],
+                    "styleMediaIds": [
+                        5446302,
+                        5446312,
+                        5446322,
+                        5446332,
+                        5446342,
+                        5446352,
+                        5446362,
+                        5446372
+                    ],
+                    "swatchMedia": {
+                        "desktop": "https://n.nordstrommedia.com/id/sr3/6637809a-9a2f-4ceb-872d-209b924cc690.jpeg?crop=fit\u0026w=31\u0026h=31",
+                        "mobile": "https://n.nordstrommedia.com/id/sr3/6637809a-9a2f-4ceb-872d-209b924cc690.jpeg?crop=fit\u0026w=40\u0026h=40",
+                        "preview": "https://n.nordstrommedia.com/id/sr3/6637809a-9a2f-4ceb-872d-209b924cc690.jpeg?crop=fit\u0026w=168\u0026h=168"
+                    }
+                }
+            },
+            "allIds": [
+                980649
+            ]
+        },
+        "size": {
+            "byId": {
+                "10": {
+                    "id": "10",
+                    "value": "10",
+                    "displayValue": "10",
+                    "groupValue": "",
+                    "filterType": "size",
+                    "relatedSkuIds": [
+                        41847876
+                    ],
+                    "isAvailableWith": "_c:980649+w:m|"
+                },
+                "9.5": {
+                    "id": "9.5",
+                    "value": "9.5",
+                    "displayValue": "9.5",
+                    "groupValue": "",
+                    "filterType": "size",
+                    "relatedSkuIds": [
+                        41848593
+                    ],
+                    "isAvailableWith": "_c:980649+w:m|"
+                }
+            },
+            "allIds": [
+                "9.5",
+                "10"
+            ]
+        },
+        "width": {
+            "byId": {
+                "m": {
+                    "id": "m",
+                    "value": "M",
+                    "displayValue": "M (Medium)",
+                    "groupValue": "",
+                    "filterType": "width",
+                    "relatedSkuIds": [
+                        41847876,
+                        41848593
+                    ],
+                    "isAvailableWith": "_c:980649+s:10|_c:980649+s:9.5|"
+                }
+            },
+            "allIds": [
+                "m"
+            ]
+        },
+        "group": {
+            "byId": {
+                "regular": {
+                    "value": "regular",
+                    "displayValue": "Regular",
+                    "filterType": "group",
+                    "originalStyleNumber": "5952335",
+                    "shouldDisplay": false,
+                    "relatedSizeIds": null
+                }
+            },
+            "allIds": [
+                "regular"
+            ]
+        }
+    },
+    "filterOptions": [
+        "color",
+        "size",
+        "width"
+    ],
+    "fitAndSize": {
+        "contextualSizeDetail": "True to size.",
+        "fitGuideTitle": "",
+        "fitGuideUrl": "",
+        "fitVideoTitle": "",
+        "fitVideoUrl": "",
+        "hasSizeChart": true,
+        "sizeChartTitle": "Nike",
+        "sizeChartUrl": "/sizeguides/1541_sizeguide.pdf",
+        "sizeDetail": [
+            "True to size."
+        ]
+    },
+    "imtFitAndSize": {},
+    "fitCategory": "",
+    "gender": "Male",
+    "giftWithPurchase": "",
+    "healthHazardCategory": "",
+    "holidayDeliveryCopy": {},
+    "imsProductTypeId": 353,
+    "imsProductTypeParentId": 4,
+    "ingredients": "",
+    "isAnniversaryStyle": false,
+    "isAvailable": true,
+    "isBackOrdered": false,
+    "isBeauty": false,
+    "isCallCenterActive": false,
+    "isChanel": false,
+    "isCustomerFirstAccessEligible": false,
+    "isEGifting": false,
+    "isEligibleForHolidayMessaging": false,
+    "isPickUpStoreEligible": false,
+    "isHazmat": false,
+    "isInStoreOnlyBridal": false,
+    "isInternational": false,
+    "isLoadedFromServer": true,
+    "isMwpV6": true,
+    "isDynamicRenderOn": true,
+    "isPreOrder": false,
+    "isProductBuyNowEligible": true,
+    "isProductNordyClubExclusive": false,
+    "isPythonItem": false,
+    "isStoreAvailable": true,
+    "isStyleRestrictedFromIntlShipping": true,
+    "isUmap": false,
+    "keywords": {
+        "heelHeight": null,
+        "heelStyle": null,
+        "toeStyle": null
+    },
+    "maxOrderQuantity": 5,
+    "number": "5952335",
+    "numberOfReviews": 0,
+    "pathAlias": "nike-waffle-racer-sneaker-men",
+    "price": {
+        "bySkuId": {
+            "41847876": {
+                "currentPercentOff": "",
+                "isInternationalPricing": false,
+                "isOriginalPriceRange": false,
+                "isRange": false,
+                "originalPriceString": "85.00",
+                "maxPercentageOff": "",
+                "previousPriceString": "",
+                "priceString": "85.00",
+                "saleEndDate": "",
+                "saleType": "Regular",
+                "showSoldOutMessage": false,
+                "showUMapMessage": false,
+                "showUMapPrice": false,
+                "styleId": 5445302,
+                "valueStatement": ""
+            },
+            "41848593": {
+                "currentPercentOff": "",
+                "isInternationalPricing": false,
+                "isOriginalPriceRange": false,
+                "isRange": false,
+                "originalPriceString": "85.00",
+                "maxPercentageOff": "",
+                "previousPriceString": "",
+                "priceString": "85.00",
+                "saleEndDate": "",
+                "saleType": "Regular",
+                "showSoldOutMessage": false,
+                "showUMapMessage": false,
+                "showUMapPrice": false,
+                "styleId": 5445302,
+                "valueStatement": ""
+            }
+        },
+        "allSkuIds": [
+            41847876,
+            41848593
+        ],
+        "style": {
+            "allSkusOnSale": false,
+            "currentMinPrice": 85,
+            "currentMaxPrice": 85,
+            "currentPercentOff": "",
+            "isInternationalPricing": false,
+            "isOriginalPriceRange": false,
+            "isRange": false,
+            "originalPriceString": "85.00",
+            "maxPercentageOff": "",
+            "previousPriceString": "",
+            "priceString": "85.00",
+            "saleEndDate": "",
+            "saleType": "Regular",
+            "showSoldOutMessage": false,
+            "showUMapMessage": false,
+            "showUMapPrice": false,
+            "styleId": 5445302,
+            "valueStatement": ""
+        }
+    },
+    "productEngagement": {
+        "pageViews": {
+            "count": "57",
+            "copy": ""
+        }
+    },
+    "promotion": {
+        "promoType": "",
+        "startDateTime": "",
+        "endDateTime": "",
+        "maximumPromotionalPrice": 0,
+        "minimumPromotionalPrice": 0,
+        "maximumPercentOff": 0,
+        "minimumPercentOff": 0
+    },
+    "primaryCategoryPathString": "0~8000001~2374609~60135789~2380781~60178863",
+    "productName": "Waffle Racer Sneaker",
+    "productTitle": "Nike Waffle Racer Sneaker (Men)",
+    "productTypeName": "Sneaker",
+    "productTypeParentName": "Shoes",
+    "saleType": "Regular",
+    "salesVideoShot": null,
+    "sellingStatement": "Sleek and low, this '70s-throwback sneaker sports an upper of crisp nylon canvas framed in soft suede with spongy foam spilling from the raw-edged tongue.",
+    "shopperSizePreferences": [],
+    "skus": {
+        "byId": {
+            "41847876": {
+                "id": 41847876,
+                "backOrderDate": null,
+                "colorId": 980649,
+                "displayOriginalPrice": "85.00",
+                "displayPercentOff": "",
+                "displayPrice": "85.00",
+                "isAvailable": true,
+                "isBackOrder": false,
+                "isDefault": false,
+                "ltsPrice": 0,
+                "price": 85,
+                "sizeId": "10",
+                "widthId": "m",
+                "rmsSkuId": 26451365,
+                "totalQuantityAvailable": 2,
+                "isAvailableFulfillmentCenter": false,
+                "fulfillmentChannelId": 3
+            },
+            "41848593": {
+                "id": 41848593,
+                "backOrderDate": null,
+                "colorId": 980649,
+                "displayOriginalPrice": "85.00",
+                "displayPercentOff": "",
+                "displayPrice": "85.00",
+                "isAvailable": true,
+                "isBackOrder": false,
+                "isDefault": false,
+                "ltsPrice": 0,
+                "price": 85,
+                "sizeId": "9.5",
+                "widthId": "m",
+                "rmsSkuId": 26451364,
+                "totalQuantityAvailable": 1,
+                "isAvailableFulfillmentCenter": false,
+                "fulfillmentChannelId": 3
+            }
+        },
+        "allIds": [
+            41847876,
+            41848593
+        ]
+    },
+    "styleMedia": {
+        "byId": {
+            "5446302": {
+                "id": 5446302,
+                "colorId": 980649,
+                "colorName": "TEAM ORANGE/ ROYAL/ BLACKDNU",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/edebe9ba-14fc-4084-a38c-cc9935920c59.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/edebe9ba-14fc-4084-a38c-cc9935920c59.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/edebe9ba-14fc-4084-a38c-cc9935920c59.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/edebe9ba-14fc-4084-a38c-cc9935920c59.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/edebe9ba-14fc-4084-a38c-cc9935920c59.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/edebe9ba-14fc-4084-a38c-cc9935920c59.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/edebe9ba-14fc-4084-a38c-cc9935920c59.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/edebe9ba-14fc-4084-a38c-cc9935920c59.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/edebe9ba-14fc-4084-a38c-cc9935920c59.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/edebe9ba-14fc-4084-a38c-cc9935920c59.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/edebe9ba-14fc-4084-a38c-cc9935920c59.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/edebe9ba-14fc-4084-a38c-cc9935920c59.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": true,
+                "isTrimmed": true,
+                "mediaGroupType": "Main",
+                "mediaType": "Image",
+                "sortId": 1
+            },
+            "5446312": {
+                "id": 5446312,
+                "colorId": 980649,
+                "colorName": "TEAM ORANGE/ ROYAL/ BLACKDNU",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/069c15e6-ced9-4089-8487-4919f5cdaf4a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/069c15e6-ced9-4089-8487-4919f5cdaf4a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/069c15e6-ced9-4089-8487-4919f5cdaf4a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/069c15e6-ced9-4089-8487-4919f5cdaf4a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/069c15e6-ced9-4089-8487-4919f5cdaf4a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/069c15e6-ced9-4089-8487-4919f5cdaf4a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/069c15e6-ced9-4089-8487-4919f5cdaf4a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/069c15e6-ced9-4089-8487-4919f5cdaf4a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/069c15e6-ced9-4089-8487-4919f5cdaf4a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/069c15e6-ced9-4089-8487-4919f5cdaf4a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/069c15e6-ced9-4089-8487-4919f5cdaf4a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/069c15e6-ced9-4089-8487-4919f5cdaf4a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 2
+            },
+            "5446322": {
+                "id": 5446322,
+                "colorId": 980649,
+                "colorName": "TEAM ORANGE/ ROYAL/ BLACKDNU",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/9102b6a2-00e0-4984-8574-18ac9701bf6a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/9102b6a2-00e0-4984-8574-18ac9701bf6a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/9102b6a2-00e0-4984-8574-18ac9701bf6a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/9102b6a2-00e0-4984-8574-18ac9701bf6a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/9102b6a2-00e0-4984-8574-18ac9701bf6a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/9102b6a2-00e0-4984-8574-18ac9701bf6a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/9102b6a2-00e0-4984-8574-18ac9701bf6a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/9102b6a2-00e0-4984-8574-18ac9701bf6a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/9102b6a2-00e0-4984-8574-18ac9701bf6a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/9102b6a2-00e0-4984-8574-18ac9701bf6a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/9102b6a2-00e0-4984-8574-18ac9701bf6a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/9102b6a2-00e0-4984-8574-18ac9701bf6a.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 3
+            },
+            "5446332": {
+                "id": 5446332,
+                "colorId": 980649,
+                "colorName": "TEAM ORANGE/ ROYAL/ BLACKDNU",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/6d578f13-b041-4c9c-840d-5da86073a096.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/6d578f13-b041-4c9c-840d-5da86073a096.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/6d578f13-b041-4c9c-840d-5da86073a096.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/6d578f13-b041-4c9c-840d-5da86073a096.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/6d578f13-b041-4c9c-840d-5da86073a096.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/6d578f13-b041-4c9c-840d-5da86073a096.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/6d578f13-b041-4c9c-840d-5da86073a096.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/6d578f13-b041-4c9c-840d-5da86073a096.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/6d578f13-b041-4c9c-840d-5da86073a096.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/6d578f13-b041-4c9c-840d-5da86073a096.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/6d578f13-b041-4c9c-840d-5da86073a096.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/6d578f13-b041-4c9c-840d-5da86073a096.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 4
+            },
+            "5446342": {
+                "id": 5446342,
+                "colorId": 980649,
+                "colorName": "TEAM ORANGE/ ROYAL/ BLACKDNU",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/f029915a-a12b-41df-89cd-461e37dbba4c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/f029915a-a12b-41df-89cd-461e37dbba4c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/f029915a-a12b-41df-89cd-461e37dbba4c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/f029915a-a12b-41df-89cd-461e37dbba4c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/f029915a-a12b-41df-89cd-461e37dbba4c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/f029915a-a12b-41df-89cd-461e37dbba4c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/f029915a-a12b-41df-89cd-461e37dbba4c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/f029915a-a12b-41df-89cd-461e37dbba4c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/f029915a-a12b-41df-89cd-461e37dbba4c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/f029915a-a12b-41df-89cd-461e37dbba4c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/f029915a-a12b-41df-89cd-461e37dbba4c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/f029915a-a12b-41df-89cd-461e37dbba4c.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 5
+            },
+            "5446352": {
+                "id": 5446352,
+                "colorId": 980649,
+                "colorName": "TEAM ORANGE/ ROYAL/ BLACKDNU",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/75e9a58f-44ef-4810-95fe-98614d11fc9d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/75e9a58f-44ef-4810-95fe-98614d11fc9d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/75e9a58f-44ef-4810-95fe-98614d11fc9d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/75e9a58f-44ef-4810-95fe-98614d11fc9d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/75e9a58f-44ef-4810-95fe-98614d11fc9d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/75e9a58f-44ef-4810-95fe-98614d11fc9d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/75e9a58f-44ef-4810-95fe-98614d11fc9d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/75e9a58f-44ef-4810-95fe-98614d11fc9d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/75e9a58f-44ef-4810-95fe-98614d11fc9d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/75e9a58f-44ef-4810-95fe-98614d11fc9d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/75e9a58f-44ef-4810-95fe-98614d11fc9d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/75e9a58f-44ef-4810-95fe-98614d11fc9d.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 6
+            },
+            "5446362": {
+                "id": 5446362,
+                "colorId": 980649,
+                "colorName": "TEAM ORANGE/ ROYAL/ BLACKDNU",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/3544e215-0b12-4d4f-bf3d-5c0b57635c32.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/3544e215-0b12-4d4f-bf3d-5c0b57635c32.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/3544e215-0b12-4d4f-bf3d-5c0b57635c32.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/3544e215-0b12-4d4f-bf3d-5c0b57635c32.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/3544e215-0b12-4d4f-bf3d-5c0b57635c32.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/3544e215-0b12-4d4f-bf3d-5c0b57635c32.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/3544e215-0b12-4d4f-bf3d-5c0b57635c32.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/3544e215-0b12-4d4f-bf3d-5c0b57635c32.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/3544e215-0b12-4d4f-bf3d-5c0b57635c32.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/3544e215-0b12-4d4f-bf3d-5c0b57635c32.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/3544e215-0b12-4d4f-bf3d-5c0b57635c32.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/3544e215-0b12-4d4f-bf3d-5c0b57635c32.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 7
+            },
+            "5446372": {
+                "id": 5446372,
+                "colorId": 980649,
+                "colorName": "TEAM ORANGE/ ROYAL/ BLACKDNU",
+                "imageMediaUri": {
+                    "smallDesktop": "https://n.nordstrommedia.com/id/sr3/3511369c-26c8-43ae-aff9-ab77fa6be6cf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=525",
+                    "mediumDesktop": "https://n.nordstrommedia.com/id/sr3/3511369c-26c8-43ae-aff9-ab77fa6be6cf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=630",
+                    "largeDesktop": "https://n.nordstrommedia.com/id/sr3/3511369c-26c8-43ae-aff9-ab77fa6be6cf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=780\u0026h=838",
+                    "maxLargeDesktop": "https://n.nordstrommedia.com/id/sr3/3511369c-26c8-43ae-aff9-ab77fa6be6cf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1660\u0026h=1783",
+                    "smallZoom": "https://n.nordstrommedia.com/id/sr3/3511369c-26c8-43ae-aff9-ab77fa6be6cf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1200\u0026h=1289",
+                    "zoom": "https://n.nordstrommedia.com/id/sr3/3511369c-26c8-43ae-aff9-ab77fa6be6cf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=1318\u0026h=1416",
+                    "mobileSmall": "https://n.nordstrommedia.com/id/sr3/3511369c-26c8-43ae-aff9-ab77fa6be6cf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=380\u0026h=582",
+                    "mobileSmallTrimWhiteSpace": "https://n.nordstrommedia.com/id/sr3/3511369c-26c8-43ae-aff9-ab77fa6be6cf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=350\u0026h=536",
+                    "mobileMedium": "https://n.nordstrommedia.com/id/sr3/3511369c-26c8-43ae-aff9-ab77fa6be6cf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=489\u0026h=750",
+                    "mobileLarge": "https://n.nordstrommedia.com/id/sr3/3511369c-26c8-43ae-aff9-ab77fa6be6cf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=587\u0026h=900",
+                    "mobileZoom": "https://n.nordstrommedia.com/id/sr3/3511369c-26c8-43ae-aff9-ab77fa6be6cf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=860\u0026h=1319",
+                    "mini": "https://n.nordstrommedia.com/id/sr3/3511369c-26c8-43ae-aff9-ab77fa6be6cf.jpeg?crop=pad\u0026pad_color=FFF\u0026format=jpeg\u0026trim=color\u0026trimcolor=FFF\u0026w=60\u0026h=90"
+                },
+                "isDefault": true,
+                "isSelected": false,
+                "isTrimmed": true,
+                "mediaGroupType": "Alternate",
+                "mediaType": "Image",
+                "sortId": 8
+            }
+        },
+        "allIds": [
+            5446302,
+            5446312,
+            5446322,
+            5446332,
+            5446342,
+            5446352,
+            5446362,
+            5446372
+        ]
+    },
+    "styleNumber": "5952335",
+    "styleVideos": {
+        "byId": {},
+        "allIds": []
+    },
+    "treatmentType": "Regular",
+    "vendorVideoShot": null,
+    "page": {
+        "PageName": "pdp 1/19/21",
+        "Components": [
+            {
+                "Id": "0a60d88f-a7f7-4ca3-997e-cbf8092f61a1",
+                "ComponentName": "Gift Options",
+                "SchemaName": "pdpGiftOptions",
+                "Sections": {
+                    "Bottom": {
+                        "Button": "Shop Gifts",
+                        "ButtonMobile": "Shop Gifts",
+                        "FooterText": "Need help finding the perfect gift? We’ve got you covered.",
+                        "Url": "/browse/gifts"
+                    },
+                    "Left": {
+                        "FirstIcon": "GiftMessage",
+                        "FirstText": "Gift message (free)",
+                        "FourthIcon": "GiftWrapService",
+                        "FourthText": "Wrapped with signature gift wrap (free)",
+                        "Header": "Pickup \u0026 In-Store ",
+                        "SecondIcon": "GiftDIYKit",
+                        "SecondText": "DIY gift kit (free)",
+                        "ThirdIcon": "MediumGift",
+                        "ThirdText": "Packaged in a Nordstrom box (free)"
+                    },
+                    "Right": {
+                        "FirstIcon": "GiftMessage",
+                        "FirstText": "Gift message (free)",
+                        "Header": "Delivery",
+                        "SecondIcon": "GiftDIYKit",
+                        "SecondText": "DIY gift kit ($2)",
+                        "ThirdIcon": "MediumGift",
+                        "ThirdText": "Packaged in a Nordstrom box ($3)"
+                    },
+                    "Top": {
+                        "Header": "GIFT OPTIONS",
+                        "Icon": "LargeGift",
+                        "Text": "Get free gift wrap when you pick up your order at a Nordstrom store! Choose gift options when you check out. Some items may not be eligible for certain gift wrap options."
+                    }
+                }
+            },
+            {
+                "Id": "63cd3f6a-5c43-473b-bbed-69440b9ce994",
+                "ComponentName": "Free Shipping",
+                "SchemaName": "pdpPriceLockupShippingText",
+                "Sections": {
+                    "ShippingText": {
+                        "shippingText": "Free Shipping"
+                    }
+                }
+            },
+            {
+                "Id": "aa6b49f3-08f8-4feb-8b65-9c7422550654",
+                "ComponentName": "Shipping Details",
+                "SchemaName": "pdpShippingDetails",
+                "Sections": {
+                    "ShippingDetails": {
+                        "collapseDetailsLinkText": "See less",
+                        "expandDetailsLinkText": "See more",
+                        "heading": "Free Shipping \u0026 returns",
+                        "sameDayDeliveryForSkuAvailableCopy": "\u003cp\u003eYour selection is available for delivery in your area. Order by 1pm local time and select Same-Day Delivery ($15) at Checkout.\u003c/p\u003e",
+                        "sameDayDeliveryForSkuUnavailableCopy": "\u003cp\u003eYour selection isn't available for Same-Day Delivery in your area. Other expedited shipping methods are available at Checkout.\u003c/p\u003e",
+                        "showEligibleZipCodesModalLinkText": "Show eligible zip codes and details.",
+                        "standardShippingCopy": "\u003cp\u003eThis product isn't available for Same-Day Delivery in your area. Other expedited shipping methods are available at Checkout.\u003c/p\u003e"
+                    }
+                }
+            },
+            {
+                "Id": "2ff70fa8-fa09-411f-a569-bc9b20bf9859",
+                "ComponentName": "BOFLEX",
+                "SchemaName": "pdpBoflex",
+                "Sections": {
+                    "Boflex": {
+                        "Location": "SHOPPING IN:",
+                        "SetLocation": "Set Location"
+                    },
+                    "FreePickupRadioButton": {
+                        "ChooseStore": "Choose store",
+                        "FreePickup": "Free Pickup",
+                        "FreePickupAt": "Free Pickup at",
+                        "NotAvailable": "Not available for pickup"
+                    },
+                    "FreeShippingRadioButton": {
+                        "FreeShipping": "Free Shipping to",
+                        "ShippingEta": "Arrives between "
+                    },
+                    "PickUpPromises": {
+                        "NotInStock": "Not available",
+                        "TryAnotherLocation": "Try another location."
+                    },
+                    "PickupAndDeliveryModal": {
+                        "FreeShipping": {
+                            "Arrival": "Arrives between",
+                            "Title": "Free Shipping to"
+                        },
+                        "PickupSection": {
+                            "Available": "Available for pickup near you at",
+                            "Locations": "locations",
+                            "NotAvailableDescription": "\u003cp\u003eStill want free pickup? Choose \u003cstrong\u003eShip to a Nordstrom Store\u003c/strong\u003e at Checkout and pick up your order later.\u003c/p\u003e",
+                            "NotAvailableTitle": "Not available at a store near you",
+                            "SeeMore": "See more"
+                        },
+                        "SubmitButton": "Apply",
+                        "Title": "Pickup \u0026 Delivery",
+                        "ZipCodeForm": {
+                            "Description": "Set a location to see pickup and delivery options.",
+                            "ErrorMessage": "We can’t check your location right now. Try again soon.",
+                            "SubmitButton": "Find Locations",
+                            "TryAgain": "Enter the ZIP Code and try again."
+                        }
+                    },
+                    "Promotions": {
+                        "Curbside": "Curbside Pickup"
+                    },
+                    "ShipToPromises": {
+                        "Arrival": "Arrives between ",
+                        "Shipping": "Free Shipping",
+                        "ShippingSpecialMessage": "We're offering free curbside and in-store pickup."
+                    },
+                    "ZipCodeForm": {
+                        "EnterYourZipcode": "Enter your zip code to see delivery \u0026 pickup options near you.",
+                        "ErrorMessage": "We can’t check your location right now. Try again soon.",
+                        "TryAgainMessage": "Enter the ZIP Code and try again."
+                    }
+                }
+            },
+            {
+                "Id": "1fdd698c-4986-4890-b6d5-7eb027105765",
+                "ComponentName": "ACTIVEVIEWER",
+                "SchemaName": "activeViewerText",
+                "Sections": {
+                    "ActiveViewerText": {
+                        "activeViewerText": "people are viewing"
+                    }
+                }
+            },
+            {
+                "Id": "fb71156e-3cdc-4c8b-9c09-f3ea448c31b5",
+                "ComponentName": "Wishlist",
+                "SchemaName": "pdpModule",
+                "Modules": [
+                    {
+                        "heading": "Add_To_Wishlist",
+                        "text": "Add to Wish List"
+                    },
+                    {
+                        "heading": "Added_To_Wishlist",
+                        "text": "Added to Wish List"
+                    }
+                ]
+            },
+            {
+                "Id": "9d62e0a4-0516-4265-b5f5-368ddbfc7903",
+                "ComponentName": "GiftOptionsLink",
+                "SchemaName": "pdpModule",
+                "Modules": [
+                    {
+                        "heading": "Gift_Options_Link",
+                        "text": "Gift options"
+                    }
+                ]
+            },
+            {
+                "Id": "5d8dbe9e-2f3a-4e86-986f-c2f0605e4623",
+                "ComponentName": "TD Bank Message 40",
+                "SchemaName": "pdpModule",
+                "Modules": [
+                    {
+                        "heading": "TD_Bank_Message",
+                        "text": "Get a $40 Bonus Note when you use a new Nordstrom credit card."
+                    },
+                    {
+                        "heading": "TD_Bank_Apply",
+                        "text": "Apply now",
+                        "textUrl": "https://www.nordstrom.com/creditcard/entry?cc=AA1002"
+                    }
+                ]
+            },
+            {
+                "Id": "7bddb30d-ef9b-4235-a2d8-a79ab5cea238",
+                "ComponentName": "Scheduled Fulfillment",
+                "SchemaName": "pdpModule",
+                "Modules": [
+                    {
+                        "heading": "BackOrderTitle",
+                        "text": "Backordered Item:"
+                    },
+                    {
+                        "heading": "BackOrderText",
+                        "text": "Your current size and color combination will ship on or around \u003c%= date %\u003e."
+                    },
+                    {
+                        "heading": "PreOrderTitle",
+                        "text": "Pre-order this style today!"
+                    },
+                    {
+                        "heading": "PreOrderText",
+                        "text": "Ships as soon as available. You'll be charged only when your item ships."
+                    }
+                ]
+            },
+            {
+                "Id": "d8ae5594-e265-49ac-b8d9-43d7b1ceb387",
+                "ComponentName": "Free Two Day Shipping",
+                "SchemaName": "pdpModule",
+                "Modules": [
+                    {
+                        "heading": "Free_Two_Day_Shipping",
+                        "text": "Cardmembers get Free Two-Day Shipping on this item."
+                    }
+                ]
+            },
+            {
+                "Id": "43b18262-8d00-40b9-b52c-affc2ec5c667",
+                "ComponentName": "Chat",
+                "SchemaName": "pdpModule",
+                "Modules": [
+                    {
+                        "heading": "Title",
+                        "text": "HAVE QUESTIONS?"
+                    },
+                    {
+                        "heading": "Description",
+                        "text": "Connect with us to get free style advice, product recommendations or customer service help."
+                    },
+                    {
+                        "heading": "Chat_Now_Button",
+                        "text": "Chat Now"
+                    },
+                    {
+                        "heading": "Modal_Title",
+                        "text": "We're here to help"
+                    },
+                    {
+                        "heading": "Modal_Stylist_Chat_Button",
+                        "text": "Chat with a Stylist",
+                        "textUrl": "/styling-chat-on-web?origin=pdp"
+                    },
+                    {
+                        "heading": "Modal_Care_Description",
+                        "text": "Need help with an order or return?"
+                    },
+                    {
+                        "heading": "Modal_Care_Chat_Button",
+                        "text": "Chat with Customer Care",
+                        "textUrl": "https://nordstrom.custhelp.com/app/chat/chat_launch/incidents.c$sent_queueid/1?jid=j011676-12399\u0026cm_sp=merch-_-services_12399_j011676-_-freelayout_corp_p05_details"
+                    },
+                    {
+                        "heading": "Modal_Stylist_Description",
+                        "text": "Get free style help and product recommendations"
+                    }
+                ]
+            }
+        ]
+    }
+}

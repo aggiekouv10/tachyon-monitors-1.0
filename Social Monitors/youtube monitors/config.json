@@ -1,0 +1,14 @@
+{
+    "token": "ODEzODI3MjM1NjMwMjg0ODcw.YDU9rQ.RDvTv-BEthEGYDmr9vv2hUfMQac",
+    "message": "**New video:** {videoTitle}\n{videoURL}",
+    "channel": "844780050020564992",
+    "youtubers": [
+        "https://www.youtube.com/channel/UCiBv5sXTXhH8TyiXQJz23nA",
+        "https://www.youtube.com/channel/UCN8OxuBrKg6YJ-Kv4UB5Hjg",
+        "https://www.youtube.com/channel/UCi2AoKtXCPLInjG4ZnN_Hyw",
+        "https://www.youtube.com/channel/UC7V18bBk4EGwmxf114i1w6Q",
+        "https://www.youtube.com/channel/UCW4jBG2FTAOdwQ4ALwhrHUA",
+        "https://www.youtube.com/channel/UCJ7a-ac7ViYTPPRd3cAcreg"
+    ],
+    "youtubeKey": "AIzaSyDFZ1U0R5TJaPvsNt8ynoZbtmkuq6N3_OI"
+}

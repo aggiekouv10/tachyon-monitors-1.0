@@ -1,0 +1,197 @@
+[
+    {
+        "name": "RETAILUNFILTERED",
+        "webhook": ""
+    },
+    {
+        "name": "RETAILFILTEREDUS",
+        "webhook": ""
+    },
+    {
+        "name": "RETAILFILTEREDCA",
+        "webhook": ""
+    },
+    {
+        "name": "WALMARTUS",
+        "webhook": "https://discord.com/api/webhooks/814493251678765057/Cua-kQhOYfTrfBzu1fEumgmMlJoTtMe0EajqiPhEpfCp7RXYLw3H5LFnBm-nva_qekcr"
+    },
+    {
+        "name": "WALMARTCA",
+        "webhook": "https://discord.com/api/webhooks/850458178427551744/ICABAAcwuyMxlg5Mvid69PgsEFOVBm5CEAWUJBR-84joBIWv8SKybnL88YK-ZYYG7XYV"
+    },
+    {
+        "name": "WALMARTCADROP",
+        "webhook": "https://discord.com/api/webhooks/904155574873260052/eX6Dx8ULa8MB0VmMsVCKoeulku6_XBEdERKHPn202KL7TCbBJw0cOkcbYgIZLEL_Kwn-"
+    },
+    {
+        "name": "WALMARTCAPRE",
+        "webhook": "https://discord.com/api/webhooks/910063024205889589/pM9TLiZM3EFwMsLHGxkejJSyElPtXO-qEBH8dTbziuXu7PD1RbKqaItAWj1R3mMECYdq"
+    },
+    {
+        "name": "WALMARTCASTORE",
+        "webhook": "https://discord.com/api/webhooks/891448587144286259/kmN0fOkoKo2U6K0HFnzjGIbfXTFBL-kyHjJiyCaNntno9KbhTcXcm7AavygN_dZBcRQs"
+    },
+    {
+        "name": "SAMSCLUB",
+        "webhook": "https://discord.com/api/webhooks/845136149092630558/WM7DpGXMGnvmuWFWDelvKOjpSlRSNotHLrbJ-xGb5osgx-0asLYFpptuDaIO7Ucq_Htm"
+    },
+    {
+        "name": "CANADACOMPUTERS",
+        "webhook": "https://discord.com/api/webhooks/830661240716001300/4VZZ3sbCMa6DKmDIQZRQr4I7vkFHTU68mSUrMrvHddWd93A_heR-0RydiM1eJDS2dP5A"
+    },
+    {
+        "name": "CURRYUK",
+        "webhook": "https://discord.com/api/webhooks/830671858143592478/ujK4K1VDEmZhI0MB9_SnmSjF5ThV_OnPjraJ2eGzyK6koP8fPUVgobxW2DidSQOiTZrc"
+    },
+    {
+        "name": "GAMESTOP",
+        "webhook": "https://discord.com/api/webhooks/861146292679082036/unnc3qz9Tbx3r-6JU0l_vRzkRkyqRsH0sHhciJE_p8H889X0AG5yh53qi53KGx7DjTij"
+    },
+    {
+        "name": "GAMESTOPCA",
+        "webhook": "https://discord.com/api/webhooks/861367500926746674/9ht7WCiRx9WcWmpINaxTLVd5WObsw6V2q07m1AscCLnHBftiEyX3iSAHaUXYaD-6y-f4"
+    },    {
+        "name": "GAMESTOPCASTORE",
+        "webhook": "https://discord.com/api/webhooks/902026502567235584/C0vrpAfiWNQ6dqpDRHDKxOyUWHRMIbNSj3Rr5XJflJrN4gGjTVy8SWG8c0kNDXNXWcRE"
+    },
+    {
+        "name": "NEWEGGUS",
+        "webhook": "https://discord.com/api/webhooks/832129169487560704/kuZC8sMJwrtTejbwmt3JB_XBtg0PjUyFg5K8us1FppREdfgzoUZbeQs-v_GOH_eyPTQt"
+    },
+    {
+        "name": "NEWEGGCA",
+        "webhook": "https://discord.com/api/webhooks/872857847573147728/CNIajCkDkQTxJdEx0nbDyhYwDiyl-W8Xx04zfhRDc8CYFpyWZjGRlFB4ZUGfHMkaJqkU"
+    },
+    {
+        "name": "XBOXUS",
+        "webhook": "https://discord.com/api/webhooks/887368433757487164/6lMIR9ow5GP9DtFDM4xW-4QrUjZ7cK_NG9sw1NjnNthrbV2RHfc5wWOEbMwNxjUHcOhQ"
+    },
+    {
+        "name": "XBOXCA",
+        "webhook": "https://discord.com/api/webhooks/880540013694160966/8BOj-FtNqSOxzTYUPfEHwhqmq330G2fqJBZUNIoKNgoRwRc_bxtKZPszvewlA80Rh3Lg"
+    },
+    {
+        "name": "HOMEDEPOT",
+        "webhook": "https://discord.com/api/webhooks/834603944697004033/eEHQbibxZIqKFscGx3kVIHV7bkNzAsBcLOz3842LdSKvTCQq1L4EpCZPMajbIYfuXJuh"
+    },
+    {
+        "name": "AMAZONUS",
+        "webhook": "https://discord.com/api/webhooks/834709291092541470/EJBiPU4ySE94GAB5o-mGG2SYits3ZmniEW7t0GTkkt9YriUz-lqLtaSNelRu0Q0SXctO"
+    },
+    {
+        "name": "AMAZONCA",
+        "webhook": "https://discord.com/api/webhooks/901935019487023105/-qCyeVGRKe-Nb_cI2RnB0cgzCeiTuw9JHtTRrjkikg1LYrBP_huVdVQDo4nPcPhgixNy"
+    },
+    {
+        "name": "AMAZONUK",
+        "webhook": "https://discord.com/api/webhooks/914804481512861776/-AdZ221oc7AraslIF2D7lijy--5zcEuwSOOAerGVUUIkrG9AaXdZfPODfP78LRdRdFgY"
+    },
+    {
+        "name": "AMAZONDE",
+        "webhook": "https://discord.com/api/webhooks/914804514660417547/Awg11avHJPL1y_1H6tpFDW-PzGjg7YMV2RVN4wRS875ZdswXBvnY-qCS6sO1cNlkY3vN"
+    },
+    {
+        "name": "AMAZONES",
+        "webhook": "https://discord.com/api/webhooks/914804549649326100/vCkPIU68WD7l8g2C8svdUxtDvtzMgmY8K5PcXISVw81jlxVMfY707fHuP40unovCvAwg"
+    },
+    {
+        "name": "AMAZONFR",
+        "webhook": "https://discord.com/api/webhooks/914804580800430110/rkxKedIsiw7hGlicFuJ42EP01OJMCh2dXjZhRfArNOCkb8u89c7gojJqzGJSBeCIxMfK"
+    },
+    {
+        "name": "AMAZONIT",
+        "webhook": "https://discord.com/api/webhooks/914804614484881419/W9KWOErSf2vtATN7Ck0BfqCMLrcGe4DXQCv5AMjylU2sdHPTVVxyRNHr8xyv7mkIIowX"
+    },
+    {
+        "name": "BESTBUYUS",
+        "webhook": "https://discord.com/api/webhooks/811814231712202774/DO4E-Bcj98VsRUG0Lp5AFMBwzMfJYT-pGInzEMulwQde6P-_CV1LA50Z_LvuKx91kmUG"
+    },
+    {
+        "name": "BESTBUYCA",
+        "webhook": "https://discord.com/api/webhooks/873302731694157835/GYMA5qlPEeixCQDz6YbUHDsemco0D9rTP9xguB6ScFvkN6TUt-wZJit32teUB8nwWyL2"
+    },
+    {
+        "name": "BESTBUYCA2",
+        "webhook": "https://discord.com/api/webhooks/914707192295329912/PH9Ssy9b_hxUXC2PTsX4f_zCrpeBy0Bqm674-KeU7h2qKKKeWIHhu-XkqRnabaQOwQlU"
+    },
+    {
+        "name": "BESTBUYCASTORE",
+        "webhook": "https://discord.com/api/webhooks/909329661761323059/RYbLnvRKkcuaBzKmLWtDXaZ-xv49GPdVSKtaJsct-ln5VgP9TkBKbsq4kJCvQ6p1kpR5"
+    },
+    {
+        "name": "TOYSRUSCA",
+        "webhook": "https://discord.com/api/webhooks/814510595138519040/GkTUsKTMONJ8pL4sUYANjXL0h41kNlg3wrycZlKNPfimSh3m3RenLFNbPjaeWIu8fWa5"
+    },
+    {
+        "name": "TOYSRUSCASTORE",
+        "webhook": "https://discord.com/api/webhooks/911926269426405417/-IzT-O7OgBShixMjyLMI6SepF4mlh1-c_XxMZr47CV7gdwpU6MVKqKx9Hvy16w8yoBWh"
+    },
+    {
+        "name": "TARGET",
+        "webhook": "https://discord.com/api/webhooks/814565586058084402/WYz2pi9mJeSpoy33M0NQQ-VhISRvhAO8mxbpx98lD4aRuqUBQ1g2HnkKgIHvNmuNUwGR"
+    },
+    {
+        "name": "BJS",
+        "webhook": "https://discord.com/api/webhooks/881064425963003904/x6Kldi4iA9VHvTnJOXWcCiyx_gdJtglbVrI3jTFDNsUMwahtjOlFQGhOtxvsiG2ihfHx"
+    },
+    {
+        "name": "EVGAUS",
+        "webhook": "https://discord.com/api/webhooks/861339429963956265/ubs4lvBY9S4aR-PrUwOnKBYkC4YFBluNTWQlXahYvF3EqiC2QC8j587nbpIQVDVnotQs"
+    },
+    {
+        "name": "THESOURCE",
+        "webhook": "https://discord.com/api/webhooks/885636330862817320/JCi0Y_JCbB8p6oKIGmVYwP5fb5l2tSLTMGPg-CRCmtJKW19PkqElYu-lPHf175PZ7Qsp"
+    },
+    {
+        "name": "TOPPS",
+        "webhook": "https://discord.com/api/webhooks/902371875664035871/dMXCQCVGQaF8ydGr-sPEZDaTLC70CIu6ibnNkiGJfAzHK2bZI38f5D6MTKQ-JDZQLfFh"
+    },
+    {
+        "name": "EBUYER",
+        "webhook": "https://discord.com/api/webhooks/861380594797772840/DSfigSyj2POupWVNNKF82ll0ib76SVerIs1EIOupHR4EVIQhir3qm0rJvlJfhqfhaX4c"
+    },
+    {
+        "name": "USMINT",
+        "webhook": "https://discord.com/api/webhooks/814558069538422815/tv_WYxqQBsEEt6Dpf8dKek7zLjI6DmkO0D0f4af6Lns7YI7F7c_5N74SS0seX_guXRAq"
+    },
+    {
+        "name": "GAMENERDZ",
+        "webhook": "https://discord.com/api/webhooks/845131791114436618/iXu5HxjI7lxGDnqHWDh9vHs5r7_LnCdf8X9XID_Gokcr6lJVc8ICOHWI3oEaAYZAfzxm"
+    },
+    {
+        "name": "PLAYSTATION",
+        "webhook": "https://discord.com/api/webhooks/835372212802420737/5jjTPQ4XYsLnGOqqPV1xKsq7audGx0ZSaEiRJrDsjqlV1cR8DS2q_NyRqCb_-os_L6lV"
+    },
+    {
+        "name": "SHOPDISNEY",
+        "webhook": "https://discord.com/api/webhooks/835358820258676756/SCFbZAejyN7ZDMRu4NEkZhOHJT041uTQ8x9hDedT20nfHK6EPN5kBC4xNsyuthPJjTuo"
+    },
+    {
+        "name": "MICROCENTER",
+        "webhook": "https://discord.com/api/webhooks/835580069349949451/eOeeG-UulDy9x2PgWyo6XGLxkBbAoQJPUQjScdEVIX4nLqATguSevhh4negKINefrBXM"
+    },
+    {
+        "name": "POKEMONCENTER",
+        "webhook": "https://discord.com/api/webhooks/811831160815484928/YvO6NadEuW3Of7htMRR3dpi06vh_gkFkmNnpveqfAT-3m_I2zCCXUWl87bAOBv5vKnf8"
+    },
+    {
+        "name": "BNH",
+        "webhook": "https://discord.com/api/webhooks/914803971787472916/BZdcFuctJuS_E4r6-dRnF-St_Kw_fjUxThDw4a_u64He2GotNmoOHO6f5pQ7B44WneGn"
+    },
+    {
+        "name": "CORSAIR",
+        "webhook": "https://discord.com/api/webhooks/917228301192421408/0kVB98SU84WiWBS7TXmj5_Rb-lVrdv-UV7znIIzWh52ja2gNYbFzmUxcK9gv5zWEkep2"
+    },
+    {
+        "name": "CORSAIRCA",
+        "webhook": "https://discord.com/api/webhooks/917279233749954570/lP-5_Q1Gds32vNMovAdkZoJzMCl_kGod2N4y2IGBEM6deYHALAteG2QiOoiMZ5t-5xZS"
+    },
+    {
+        "name": "AMD",
+        "webhook": "https://discord.com/api/webhooks/835232678466027562/ml28CRXXhL2P3idk0Kb3fXLhdrXfaqdnMX9k9UYoREe4nui8dEtp0JrVYT7Bw3clPMmE"
+    },
+    {
+        "name": "AMDCA",
+        "webhook": "https://discord.com/api/webhooks/850909928151580712/gRuqg_ktRZbWJhGQDddYTBwsCoYQMxaQ25UMEAqHBZmV72Fqb5wRiA4nLlWAGWwvzlt8"
+    }
+]

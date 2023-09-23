@@ -1,0 +1,22 @@
+[
+    {
+        "name": "SUPREMEUS",
+        "webhook": "https://discord.com/api/webhooks/847473773853802547/Gn2rVCxHMIZF4pvbzIz2rJ68-5WBRsbYWOhxpYBfTpfNzgldlYDGbUsp14q1pnsLNUtC"
+    },
+    {
+        "name": "SUPREMEUK",
+        "webhook": "https://discord.com/api/webhooks/847470307283435589/kl_1WrCHJMzsd-1I_vzVJeH1mg4EhOadIJYR6FCVMZWRVnOPkRMKzfg4JrWWq5jMZByA"
+    },
+    {
+        "name": "SUPREMEJP",
+        "webhook": "https://discord.com/api/webhooks/912070601261338634/MnXAQmkCRa5clMQD5Y9u-qvpPXBCyL_R0uhMRZmsi162JO0r78F-j2XbN1m1uTUkKc0a"
+    },
+    {
+        "name": "SUPREMEEU",
+        "webhook": "https://discord.com/api/webhooks/847553157897650218/3T6iNGMu-TACljNnOfNz22QK6TQr4EHnNMmbHxur_kP9ZHha1qqqtBQGFECmgMAiXfwQ"
+    },
+    {
+        "name": "SUPREMEGB",
+        "webhook": "https://discord.com/api/webhooks/912070536845205564/y4wAFuRbkgozAk4emw139HlY7B9FJxslxc-DYYREGULh3PRg7_ehN0yUAt4MfkZA31xo"
+    }
+]

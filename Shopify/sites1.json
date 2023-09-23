@@ -1,0 +1,464 @@
+[
+    {
+        "url": "https://shop.travisscott.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://eflash.doverstreetmarket.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://eflash-us.doverstreetmarket.com",
+        "webhook": "https://discord.com/api/webhooks/842841776078323732/GWz8c5GrXeZ4s1Tle5313KuTjlDdEMY0KyNDTcMML2e2RZJ0xodD7PbeY8XM9Bp6BzJg"
+    },
+    {
+        "url": "https://eflash-sg.doverstreetmarket.com",
+        "webhook": "https://discord.com/api/webhooks/876200096767828020/UHHlX7wSK6-McMX1gwGayGbF6pszhIS3j5Wf2ZX5Nb2pE6p76aw8XZpP2nyqYhPfb1uI"
+    },
+    {
+        "url": "https://eflash-jp.doverstreetmarket.com",
+        "webhook": "https://discord.com/api/webhooks/843353209993035807/5gq2jMoMsIAsFpsWOJq57MfuDEvY9NPrQi79eicHwLL1bdSPdlF54fMmRArIs6JQAm6F"
+    },
+    {
+        "url": "https://shop-us.doverstreetmarket.com",
+        "webhook": "https://discord.com/api/webhooks/842841776078323732/GWz8c5GrXeZ4s1Tle5313KuTjlDdEMY0KyNDTcMML2e2RZJ0xodD7PbeY8XM9Bp6BzJg"
+    },
+    {
+        "url": "https://shop-sg.doverstreetmarket.com",
+        "webhook": "https://discord.com/api/webhooks/876200096767828020/UHHlX7wSK6-McMX1gwGayGbF6pszhIS3j5Wf2ZX5Nb2pE6p76aw8XZpP2nyqYhPfb1uI"
+    },
+    {
+        "url": "https://shop-jp.doverstreetmarket.com",
+        "webhook": "https://discord.com/api/webhooks/843353209993035807/5gq2jMoMsIAsFpsWOJq57MfuDEvY9NPrQi79eicHwLL1bdSPdlF54fMmRArIs6JQAm6F"
+    },
+    {
+        "url": "https://shop.doverstreetmarket.com",
+        "webhook": "https://discord.com/api/webhooks/843353260295585822/74gPEENcsnTkYs5TNb3su8NGea0MjD1Z07a34VwB-bGehPeMBHFMzM_MQOp3vQICzv3L"
+    },
+    {
+        "url": "https://shop.palaceskateboards.com",
+        "webhook": "https://discord.com/api/webhooks/843350311347027968/2AEd6HFlRae8vDbZMKdOZluTJ0dC8zdphn6wobnrIr8bxsyO_VJIddTvGc-QkcHqmyJp"
+    },
+    {
+        "url": "https://shop-usa.palaceskateboards.com",
+        "webhook": "https://discord.com/api/webhooks/843350389214281728/Wzhv81E1MTnLnNQNnEiH3tph85RReDKfQhFrABQgAG5fyjFGHmvVPITEfFoJMgHStXo3"
+    },
+    {
+        "url": "https://cactusplantfleamarket.com",
+        "webhook": "https://discord.com/api/webhooks/843356072822571018/gSLqhZHjJEcCWTwbpIFxOjnz9cfzA9aW7KolC9cdZ0HtV6RY4mDFXbK4H26yS7X2hE4y"
+    },
+    {
+        "url": "https://www.dtlr.com",
+        "webhook": "https://discord.com/api/webhooks/843350533070913536/p-Cv5ILcLYfOSyQeOfx-0lQNWH-NCo4vPhFvWBy2CIl6DAzv-qMU9RSu6XINTxwEO3HP"
+    },
+    {
+        "url": "https://kawsone.com",
+        "webhook": "https://discord.com/api/webhooks/843350581703213066/2F3ctEzd3G6CWyiwOIoKohU3r8zC-9l0SOrj8QYKuVpn-iAonHifUt9aAbHD12XRqjby"
+    },
+    {
+        "url": "https://pesoclo.com",
+        "webhook": "https://discord.com/api/webhooks/843350700603604992/h_3pmWvXVZdYO88S-2c0OjH8OjMnACKmd_TvjiGaJIgVXdRDzKdkcre3UqIZ3jIFUIUk"
+    },
+    {
+        "url": "https://bape.com",
+        "webhook": "https://discord.com/api/webhooks/843351226245972008/TE551E9uzFHiFuPysDTS7mY_NBuv5dAIeWwD8M_62gXQUMLH8TO03kKaKlh1z2sNEUhK"
+    },
+    {
+        "url": "https://www.jimmyjazz.com",
+        "webhook": "https://discord.com/api/webhooks/843353551110668288/noNqnGX4uVJgH2nY_J898CJHhuJ5kzPFcJFBTlrZlMqes0d34HVvC0uz-LGBi_pA5jns"
+    },
+    {
+        "url": "https://shopnicekicks.com",
+        "webhook": "https://discord.com/api/webhooks/843356865949466675/d4d_IjtpUBmr_Me8gAQ6EiHHfk0TIfoJIcB6NdwbnUil3atY_CPWWFnlEtfLCCig-fg4"
+    },
+    {
+        "url": "https://exclusivefitted.com",
+        "webhook": "https://discord.com/api/webhooks/865860288171606047/_toahERPbNnxRcDTrzLyDV9enX1x5Y7pURApbs1RWeK4C_3ofUnGMzXyj7lmMshI_bca"
+    },
+    {
+        "url": "https://www.myfitteds.com",
+        "webhook": "https://discord.com/api/webhooks/865860427766169650/zfZjeipwgXHk7RftzVRX_tCI8xp-6QCnt0OWQVskGjFl0_NLox6o57n0-xxii8TPMCAU"
+    },
+    {
+        "url": "https://sportsworld165.com",
+        "webhook": "https://discord.com/api/webhooks/865860349336748053/9JkldyxBgtcTE_j66Di_GiZ2AFPYIJpRdlvGhU-Vump6H3ZHWFY0kZX57y9r5bv8b1lZ"
+    },
+    {
+        "url": "https://shop.kanyewest.com",
+        "webhook": "https://discord.com/api/webhooks/867903740019474512/ogAI7V10qf8WCINnVhXblyltuuy45VvoNvSeHwhZMNe49GJdGFElJTcKzs0katnQ4t4T"
+    },
+    {
+        "url": "https://www.deadstock.ca",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://shop.havenshop.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://www.abovethecloudsstore.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw",
+        "timeout": 4000
+    },
+    {
+        "url": "https://a-ma-maniere.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://aj1.travisscott.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://aj1low.travisscott.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://alifenewyork.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://antisocialsocialclub.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://apbstore.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://astros.travisscott.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://bapefrance.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://bbcicecream.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://bdgastore.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://bimtoy.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://blendsus.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://bowsandarrowsberkeley.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://brremix.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://burnrubbersneakers.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://ca.octobersveryown.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://cactusjack-merchapp.myshopify.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://cactusplantfleamarket.myshopify.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://capsuletoronto.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://centre214.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://chronotoys.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://cityblueshop.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://cj1.travisscott.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://cncpts.ae",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://concrete.nl",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://courtsidesneakers.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://creme321.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://crossoverconceptstore.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://culturekings.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://culturekings.com.au",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://epitomeatl.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://fearofgod.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://featuresneakerboutique.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://ferraramarketinc.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://ficegallery.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://finalmouse.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://footzonenyc.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://fuckthepopulation.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://fugitivetoys.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://hannibalstore.it",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://hanon-shop.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://highsandlows.net.au",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://humanmade.jp",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://jjjjound.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://kongonline.co.uk",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://lapstoneandhammer.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://launch.toytokyo.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://leaders1354.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://lessoneseven.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://likelihood.us",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://notre-shop.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://nrml.ca",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://offthehook.ca",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://oipolloi.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://packershoes.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://pampamlondon.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://patta.nl",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://properlbc.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://renarts.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://rh-ude.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://rise45.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://rockcitykicks.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://saintalfred.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://serenawilliams.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://shoegallerymiami.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://shop.exclucitylife.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://shop.extrabutterny.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://shop.hbo.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://shop.laika.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://shop.pharmabergen.no",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://shop.placesplusfaces.com",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://usgstore.com.au",
+        "webhook": "https://discord.com/api/webhooks/915358093238501386/HM7YZmRYWT-o0XOKotKYXrvP3gccR3vd66a_aaZ476F3x57Cmwdx7oaFk2xkZRd6V5sw"
+    },
+    {
+        "url": "https://soleaio.com",
+        "webhook": "https://discord.com/api/webhooks/887198674415915008/nJ7JllqnZzAFgIsgBPPFUU1_HlhKOyv2phboz9GBZtclPrIq82TStrnNwaf6EFqFESyT"
+    },
+    {
+        "url": "https://drakerelated.com",
+        "webhook": "https://discord.com/api/webhooks/909631520220782713/mWelrFC9NownVHZ8BbbxNk2IwUM2O5ooXcqim1q_J-cY-YSTf002gE7HcPkpTQl-aXMq"
+    },
+    {
+        "url": "https://jdsports.ca",
+        "webhook": "https://discord.com/api/webhooks/907776073360605234/AChxBzrdh7h-P4oFB3toAcbXqI7DEzTk1OwvMFRjRAN1s8BMKLTYPH30NdwgReO423ay"
+    },
+    {
+        "url": "https://microplay.ca",
+        "webhook": "https://discord.com/api/webhooks/907126134473388053/XnyoqdRJio4UdYHc-gXpM6VvyB4DKVcYUoN4KKUALg9WgY4o48XKC1Q0xaU3deLfISWY"
+    },
+    {
+        "url": "https://gear.xbox.com",
+        "webhook": "https://discord.com/api/webhooks/899830296369852446/dSyFmxlUSQRo-r550UGwvqDJza49KDGUGpSkwFeesdzh6TB4Rd56xoe8qcH7miNOUcal"
+    },
+    {
+        "url": "https://undefeated.com",
+        "webhook": "https://discord.com/api/webhooks/842841634672214057/9RE2v_p-iOsR28XmAmyvFm0afACR1jZca42bPEfkGmuVmYrhH0VjE15c1Rw3IbmKRnM-"
+    },
+    {
+        "url": "https://kith.com",
+        "webhook": "https://discord.com/api/webhooks/847555035566571560/BELijCeebAc3HB4cNMsk1U5IMYmmltU62nUTHB6jB_l2wiB0emEXFtkJpD8pUfg5kT09"
+    },
+    {
+        "url": "https://www.shoepalace.com",
+        "webhook": "https://discord.com/api/webhooks/842841706596401222/nwN3-kyGh_4QU3fSX9GlAoL2hsLTIbfWxNCmOaR5afFean0hbqrttnI-7t46eU4ILRpf"
+    },
+    {
+        "url": "https://ycmc.com",
+        "webhook": "https://discord.com/api/webhooks/842841823382470666/t_p3GE7Eooz5d2Hnc3HEbnpDifWNN0FIidmUjoR7WWc5zrNuHXi5p95rq8Mx00xboSrz"
+    },
+    {
+        "url": "https://amigoskateshop.com",
+        "webhook": "https://discord.com/api/webhooks/842841873470718032/-wYaV2wqKyko7O4rbQfXzvuai_sU8j8gR5wMn8hDEYYUi06dNUufo7jbpikAAgLNqxsw"
+    },
+    {
+        "url": "https://njskateshop.com",
+        "webhook": "https://discord.com/api/webhooks/842841873470718032/-wYaV2wqKyko7O4rbQfXzvuai_sU8j8gR5wMn8hDEYYUi06dNUufo7jbpikAAgLNqxsw"
+    },
+    {
+        "url": "https://owlandgoosegifts.com",
+        "webhook": "https://discord.com/api/webhooks/842842662591135764/tWt-RC5vm4yXiZfb56i9ZIncwoLGLyd0WjkDpEJHh0C-tUsG0ff0hVnUEcY16ArXDWqR"
+    },
+    {
+        "url": "https://eu.kith.com",
+        "webhook": "https://discord.com/api/webhooks/848247378993741865/dNXTjy-b1qMDZBwAbX3gqd-3Hdg7NMnI4EfGETnKQBf9ijgNwnn96dHoPg3E5vKHUTSL"
+    },
+    {
+        "url": "https://www.lustmexico.com",
+        "webhook": "https://discord.com/api/webhooks/848247681725366322/by1uJoAIWCB6OlOe98p4RKWchtgYZZe5-VJ6EvD-J3MG6gByrvarcNL7exk9rH1YsZcr"
+    },
+    {
+        "url": "https://www.hatclub.com",
+        "webhook": "https://discord.com/api/webhooks/843350630658605058/Ez0unPdcYPXjbf9v3MGetqUgAu0glvZgqZ2S_lYIm1yIn7FEQjdJDN0vPyU2x82c2pu5"
+    },
+    {
+        "url": "https://www.squidindustries.co",
+        "webhook": "https://discord.com/api/webhooks/907773724361629706/bhkdEsVKk731xMCnlPo7ASBl2v-w6GY-Z9EzyTgcaH03aI-c2aGGeqZQ-f6hAhTDgkml"
+    },
+    {
+        "url": "https://us.octobersveryown.com",
+        "webhook": "https://discord.com/api/webhooks/911119715001319464/e0mFZH4JKJsfDDdz65rZmgw9bwligtKPO_r5VpjtVQDe9mWKr7XziPBdqFemWxmu-qcz"
+    },
+    {
+        "url": "https://ca.octobersveryown.com",
+        "webhook": "https://discord.com/api/webhooks/911119715001319464/e0mFZH4JKJsfDDdz65rZmgw9bwligtKPO_r5VpjtVQDe9mWKr7XziPBdqFemWxmu-qcz"
+    }
+    
+]

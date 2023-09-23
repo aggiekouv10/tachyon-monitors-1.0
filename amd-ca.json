@@ -1,0 +1,304 @@
+{
+    "redirect": null,
+    "resultCount": {
+        "total": 1
+    },
+    "products": [
+        {
+            "type": "product",
+            "type": "product",
+            "title": "Nike Kids' Grade/Pre-School Kawa Sandals - Blue Void/Signal Blue-pure Platinumblue Void/Signal Blue-pure Platinum",
+            "code": "333321689",
+            "brand": "NIKE",
+            "onTime": 1609477200000,
+            "offTime": 3187314000000,
+            "imageAndColor": [
+                {
+                    "color": "//fgl.scene7.com/is/image/FGLSportsLtd/FGL_333321689_40_s",
+                    "imageUrl": "//fgl.scene7.com/is/image/FGLSportsLtd/FGL_333321689_40_a-Nike-Kids-Grade-Pre-School-Kawa-Sandals-819352-404",
+                    "colorValue": "333321689_40",
+                    "images": [
+                        "//fgl.scene7.com/is/image/FGLSportsLtd/FGL_333321689_40_a-Nike-Kids-Grade-Pre-School-Kawa-Sandals-819352-404",
+                        "//fgl.scene7.com/is/image/FGLSportsLtd/FGL_333321689_40_b-Nike-Kids-Grade-Pre-School-Kawa-Sandals-819352-404",
+                        "//fgl.scene7.com/is/image/FGLSportsLtd/FGL_333321689_40_c-Nike-Kids-Grade-Pre-School-Kawa-Sandals-819352-404",
+                        "//fgl.scene7.com/is/image/FGLSportsLtd/FGL_333321689_40_d-Nike-Kids-Grade-Pre-School-Kawa-Sandals-819352-404"
+                    ]
+                }
+            ],
+            "productPageUrls": [
+                "/categories/shoes/boys-shoes/sandals/product/nike-kids-grade-pre-school-kawa-sandals-333321689",
+                "/categories/kids/footwear/sandals/product/nike-kids-grade-pre-school-kawa-sandals-333321689",
+                "/categories/kids/boys/boys-shoes/boys-sandals/product/nike-kids-grade-pre-school-kawa-sandals-333321689"
+            ],
+            "rating": 3.793,
+            "ratingsCount": 29.0,
+            "timeTestedPrice": null,
+            "formattedTimeTestedPrice": null,
+            "wasPrice": null,
+            "formattedWasPrice": null,
+            "priceData": "$31.99",
+            "price": 31.99,
+            "priceShortMessage": "",
+            "priceLongMessage": "",
+            "hiddenPrice": null,
+            "longDescription": "<p>The Nike Kawa Kids’ Slide features a soft synthetic strap that conforms to the natural movement of your foot. Its cushioned platform combines plush foam underfoot with a durable, lightweight outsole foam for long-lasting wear.</p>",
+            "features": "<ul><li>Full-length wavy flex grooves keep the midsole ultra-flexible</li><li>Soft synthetic strap moves naturally with your foot</li><li>Solarsoft foam footbed provides a plush feel</li><li>Polyester text</li></ul>",
+            "specifications": null,
+            "productVariants": null,
+            "clearancePrice": false,
+            "permanentMarkdown": false,
+            "sellable": false,
+            "assemblyRequired": false,
+            "inStock": false,
+            "onlineOnly": false,
+            "packagePrice": false,
+            "onFloor": true,
+            "keepOnSiteWithZeroInventory": false,
+            "bopisOnly": false,
+            "priceBelowThreshold": false,
+            "promoMessages": [],
+            "restrictedPromoMessages": [],
+            "availability": [
+                "ONLINE"
+            ],
+            "productSizeChart": null,
+            "availabilityDate": 1614661200000,
+            "mdmSpecifications": null,
+            "productPageShortUrls": [],
+            "pagePath": "/categories/shoes/boys-shoes/sandals/product/nike-kids-grade-pre-school-kawa-sandals-333321689"
+        }
+    ],
+    "suggestion": null,
+    "facets": [
+        {
+            "type": "list",
+            "moduleType": "FacetsTile",
+            "title": "Gender",
+            "suppressed": false,
+            "values": [
+                {
+                    "value": "Boys",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=Boys;x1=gender",
+                    "undoLink": ""
+                }
+            ],
+            "clearLink": "",
+            "preselectedValuesNumber": 0,
+            "selectedCount": 0
+        },
+        {
+            "type": "breadcrumbed",
+            "currentPath": "?bust=123;count=24;format=json;on_off_filter=13472234;q=333321689;sp_cs=UTF-8;page=1",
+            "names": [
+                "ast-id-level-1",
+                "ast-id-level-2",
+                "ast-id-level-3",
+                "ast-id-level-4",
+                "ast-id-level-5"
+            ],
+            "moduleType": "FacetsTile",
+            "title": "Category",
+            "suppressed": false,
+            "values": [
+                {
+                    "value": "Footwear",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=footwear;x1=ast-id-level-1",
+                    "undoLink": ""
+                },
+                {
+                    "value": "Kids",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=kids;x1=ast-id-level-1",
+                    "undoLink": ""
+                }
+            ],
+            "clearLink": "bust=123;q=333321689;page=1",
+            "preselectedValuesNumber": 0,
+            "breadcrumbs": [],
+            "selectedCount": 0
+        },
+        {
+            "type": "list",
+            "moduleType": "FacetsTile",
+            "title": "Brands",
+            "suppressed": false,
+            "values": [
+                {
+                    "value": "NIKE",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=NIKE;x1=brand",
+                    "undoLink": ""
+                }
+            ],
+            "clearLink": "",
+            "preselectedValuesNumber": 0,
+            "selectedCount": 0
+        },
+        {
+            "type": "list",
+            "moduleType": "FacetsTile",
+            "title": "Size",
+            "suppressed": false,
+            "values": [
+                {
+                    "value": "1",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=1;x1=size",
+                    "undoLink": ""
+                },
+                {
+                    "value": "2",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=2;x1=size",
+                    "undoLink": ""
+                },
+                {
+                    "value": "3",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=3;x1=size",
+                    "undoLink": ""
+                },
+                {
+                    "value": "4",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=4;x1=size",
+                    "undoLink": ""
+                },
+                {
+                    "value": "5",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=5;x1=size",
+                    "undoLink": ""
+                },
+                {
+                    "value": "6",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=6;x1=size",
+                    "undoLink": ""
+                },
+                {
+                    "value": "7",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=7;x1=size",
+                    "undoLink": ""
+                },
+                {
+                    "value": "11",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=11;x1=size",
+                    "undoLink": ""
+                },
+                {
+                    "value": "12",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=12;x1=size",
+                    "undoLink": ""
+                },
+                {
+                    "value": "13",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=13;x1=size",
+                    "undoLink": ""
+                }
+            ],
+            "clearLink": "",
+            "preselectedValuesNumber": 0,
+            "selectedCount": 0
+        },
+        {
+            "type": "list",
+            "moduleType": "FacetsColour",
+            "title": "Colour",
+            "suppressed": false,
+            "values": [
+                {
+                    "value": "blue",
+                    "count": 1,
+                    "selected": false,
+                    "link": "bust=123;q=333321689;q1=blue;x1=colours",
+                    "undoLink": ""
+                }
+            ],
+            "clearLink": "",
+            "preselectedValuesNumber": 0,
+            "selectedCount": 0
+        },
+        {
+            "type": "range",
+            "moduleType": "FacetsPrice",
+            "title": "Price",
+            "suppressed": false,
+            "lowerBound": null,
+            "upperBound": null,
+            "lowerAvailable": 31.0,
+            "upperAvailable": 32.0,
+            "min": 31.0,
+            "max": 32.0,
+            "selectedCount": 0
+        }
+    ],
+    "sortings": [
+        {
+            "title": "Relevance",
+            "link": "bust=123;q=333321689;sort=relevance",
+            "selected": true
+        },
+        {
+            "title": "Price High to Low",
+            "link": "bust=123;q=333321689;sort=price-desc",
+            "selected": false
+        },
+        {
+            "title": "Price Low to High",
+            "link": "bust=123;q=333321689;sort=price",
+            "selected": false
+        },
+        {
+            "title": "New Arrivals",
+            "link": "bust=123;q=333321689;sort=availabilityDate",
+            "selected": false
+        },
+        {
+            "title": "Rating High to Low",
+            "link": "bust=123;q=333321689;sort=rating-desc",
+            "selected": false
+        },
+        {
+            "title": "Rating Low to High",
+            "link": "bust=123;q=333321689;sort=rating",
+            "selected": false
+        }
+    ],
+    "clearFacetsLink": "",
+    "metadata": {
+        "categoryMap": {
+            "footwear::boys-shoes-boots": "Boys' Shoes & Boots",
+            "kids": "Kids",
+            "kids::boys-age-7-16-::shoes": "Shoes",
+            "kids::boys-age-7-16-": "Boys (Age 7-16)",
+            "kids::shoes::sandals": "Sandals",
+            "kids::boys-age-7-16-::shoes::sandals-slides": "Sandals & Slides",
+            "footwear": "Footwear",
+            "footwear::boys-shoes-boots::sandals-slides": "Sandals & Slides",
+            "kids::shoes": "Shoes"
+        },
+        "widget": null
+    },
+    "facetsTotalSelectedCount": 0
+}

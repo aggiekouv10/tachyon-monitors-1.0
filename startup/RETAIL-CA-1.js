@@ -1,0 +1,42 @@
+require('events').EventEmitter.defaultMaxListeners = 0
+const database = require('../database/database');
+const discordBot = require('../discord-bot');
+const Discord = require('discord.js');
+const http = require('http');
+
+discordBot.getClient.once('ready', () => {
+    discordBot.sendChannelMessage(discordBot.channels.BOT_LOGS, 'RETAIL-2 Initialized!');
+});
+
+
+
+// const server = http.createServer(function (req, res) {
+//     res.writeHead(200);
+//     res.end();
+// });
+// server.listen(6000);
+
+require('../helper').init();
+// console.log("Connected to Database! (Footpatrol)");
+discordBot.login();
+let xboxca2 = require('../Retail/xbox-ca2');
+let bestbuyca = require('../Retail/bestbuy-ca');
+let bestbuycamulti = require('../Retail/bestbuy-ca-multi');
+let bestbuycastore = require('../Retail/bestbuy-ca-store')
+let ebgamesca = require('../Retail/ebgames-ca');
+discordBot.getClient.on('message', (msg) => {
+    if (msg.content === discordBot.commandPrefix + "status") {
+        let dataUsage = {
+            walmartca: Math.round(walmartca.totalData() * 1000) / 1000,
+        }
+        const exampleEmbed = new Discord.MessageEmbed()
+            .setColor('#32CD32')
+            .setTitle('RETAIL ONLINE')
+            .addField('**Usages**',
+             `Walmart-CA: ${dataUsage.walmartca}MB\n` +
+             `**Total**: ${Math.round((dataUsage.walmartca) * 1000) / 1000}MB`)
+            .setThumbnail('https://media.discordapp.net/attachments/820804762459045910/829057240815501352/red-shopping-bag-with-circle-retail-logo-design-vector-21283467.jpg')
+
+        msg.channel.send(exampleEmbed);
+    }
+})
